@@ -1,0 +1,51 @@
+term,count,level,name
+GO:0005488,118664,1,binding
+GO:0003824,75120,1,catalytic activity
+GO:0097159,63085,2,organic cyclic compound binding
+GO:1901363,62443,2,heterocyclic compound binding
+GO:0043167,59285,2,ion binding
+GO:0005515,50690,2,protein binding
+GO:0003676,35510,3,nucleic acid binding
+GO:0043169,34553,3,cation binding
+GO:0046872,33884,4,metal ion binding
+GO:0043168,31951,3,anion binding
+GO:0036094,31102,2,small molecule binding
+GO:0016787,29332,2,hydrolase activity
+GO:0016740,28337,2,transferase activity
+GO:1901265,27275,3,nucleoside phosphate binding
+GO:0000166,27274,3,nucleotide binding
+GO:0097367,25880,2,carbohydrate derivative binding
+GO:0032553,23644,3,ribonucleotide binding
+GO:0017076,23395,4,purine nucleotide binding
+GO:0032555,23264,4,purine ribonucleotide binding
+GO:0035639,22746,4,purine ribonucleoside triphosphate binding
+GO:0140096,22143,2,"catalytic activity, acting on a protein"
+GO:0008144,21056,2,drug binding
+GO:0003677,20663,4,DNA binding
+GO:0030554,18907,5,adenyl nucleotide binding
+GO:0032559,18802,5,adenyl ribonucleotide binding
+GO:0005524,18371,3,ATP binding
+GO:0003723,14426,4,RNA binding
+GO:0140110,14153,1,transcription regulator activity
+GO:0098772,13448,1,molecular function regulator
+GO:0019899,13350,3,enzyme binding
+GO:0005215,13239,1,transporter activity
+GO:0016491,13046,2,oxidoreductase activity
+GO:0016772,12114,3,"transferase activity, transferring phosphorus-containing groups"
+GO:0043565,12000,5,sequence-specific DNA binding
+GO:0022857,11898,2,transmembrane transporter activity
+GO:0003700,11245,2,DNA-binding transcription factor activity
+GO:0046914,11137,5,transition metal ion binding
+GO:0042802,11002,3,identical protein binding
+GO:0005102,9817,3,signaling receptor binding
+GO:0016817,9752,3,"hydrolase activity, acting on acid anhydrides"
+GO:0003690,9743,5,double-stranded DNA binding
+GO:0016818,9741,4,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+GO:0016462,9696,5,pyrophosphatase activity
+GO:0016301,9681,4,kinase activity
+GO:0048037,9345,2,cofactor binding
+GO:0017111,9066,6,nucleoside-triphosphatase activity
+GO:1990837,8855,6,sequence-specific double-stranded DNA binding
+GO:0015075,8853,3,ion transmembrane transporter activity
+GO:0060089,8809,1,molecular transducer activity
+GO:0038023,8659,2,signaling receptor activity
