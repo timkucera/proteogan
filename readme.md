@@ -84,7 +84,7 @@ We provide the data we used to train _ProteoGAN_, but you can pull an updated ve
             "name": "100labels", # specify a name. The dataset can then be loaded with data.dataset.Dataset('myNewDataset 100labels')
             "filter": [ # you can implement your own filters in data/filters.py
                 {"filter_fx": "maximum_length", "filter_args": [2048]}, # maximal protein sequence length
-                {"filter_fx": "n_largest_classes", "filter_args": [50]}, # choose only the 50 largest GO classes
+                {"filter_fx": "n_largest_classes", "filter_args": [100]}, # choose the 100 largest GO classes
                 {"filter_fx": "amino_acids", "filter_args": []} # only use the standard amino acids
             ]
         }]
