@@ -115,13 +115,5 @@ If you would like to implement your own model but use our data, training and eva
 ## Citation
 If you use code from this repository in your work we kindly ask to cite accordingly:
 ```
-@inproceedings{
-    anonymous2021conditional,
-    title={Conditional Generative Modeling for De Novo Hierarchical Multi-Label Functional Protein Design},
-    author={Anonymous},
-    booktitle={Submitted to International Conference on Learning Representations},
-    year={2021},
-    url={https://openreview.net/forum?id=eHg0cXYigrT},
-    note={under review}
-}
+The paper is currently under review at ICML 2021.
 ```
