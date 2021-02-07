@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 from model.train import Trainable
-from eval.eval import TrainTestVal
+from eval.eval import TrainTestValHoldout
 
 # load data splits
-train, test, val = TrainTestVal('base L50', 300)
+# first argument is the dataset name, then the minimum members per class, and the split number
+train, test, val = TrainTestValHoldout('base L50', 1300, 1)
 
 # load model
 proteogan = Trainable(train, val, logdir='./test')

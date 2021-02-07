@@ -30,7 +30,7 @@ python -m examples.generate
 ## Generate and evaluate sequences with ProteoGAN
 ```python
 # load data splits
-train, test, val = TrainTestVal('base L50', 300)
+train, test, val = TrainTestValHoldout('base L50', 1300, 1)
 
 # load model
 proteogan = Trainable(train, val, logdir='./test')
@@ -52,7 +52,7 @@ python -m examples.generate
 ## Train ProteoGAN
 ```python
 # load data splits
-train, test, val = TrainTestVal('base L50', 300)
+train, test, val = TrainTestValHoldout('base L50', 1300, 1)
 
 # load model
 proteogan = Trainable(train, val, logdir='./test')
@@ -91,7 +91,7 @@ We provide the data we used to train _ProteoGAN_, but you can pull an updated ve
     }
 ]
 ```
-You can then simply load your data with
+You can then load your data with
 ```python
 from data.dataset import Dataset
 ds = Dataset('myNewDataset 100labels')
@@ -100,10 +100,10 @@ The data will be automatically downloaded and preprocessed. Remember to regenera
 
 
 ## Create own test and validation sets
-Simply specify the dataset from which the splits should be created, and the minimum sequence number per label:
+Specify the dataset from which the splits should be created, the minimum sequence number per label, and a random seed number that identifies the data split:
 ```python
 from eval.eval import TrainTestVal
-train, test, val = TrainTestVal('myNewDataset 100labels', 300)
+train, test, val = TrainTestValHoldout('myNewDataset 100labels', 500, 1)
 ```
 This will create the splits and evaluate them to define positive and negative control values. They are saved in _eval/traintestval/myNewDataset_100labels_300/{test or val}/metrics.json_.
 

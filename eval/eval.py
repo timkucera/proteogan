@@ -35,7 +35,7 @@ class FeatureSpace():
         if os.path.exists(path):
             return np.load(path)
         else:
-            data = Dataset(*dataset)
+            data = Dataset(dataset)
             mean = self.mean_map(data.df['sequence'])
             np.save(path, mean)
             return mean
@@ -93,18 +93,59 @@ class FeatureSpace():
         return MMD
 
 
-def TrainTestVal(dataset, sample_size):
+def TrainTestValHoldout(dataset, sample_size, random_seed, return_holdouts=False):
+    name = '_'.join(dataset.split(' ')+[str(sample_size),str(random_seed)])
+    ds = Dataset(dataset)
+    names = ds.names
+    df = ds.df
+
+    # these are manually selected label combinations for holdouts A-E
+    combinations = [
+        ['GO:0008144', 'GO:0022857'],
+        ['GO:0003677', 'GO:0003723'],
+        ['GO:0043169', 'GO:0015075'],
+        ['GO:0036094', 'GO:0016301', 'GO:0140096', 'GO:0038023'],
+        ['GO:0003824', 'GO:0043168', 'GO:0048037']
+    ]
+
+    holdouts = []
+    for comb in combinations:
+        _labels = set(comb)
+        mask = df['labels'].map(lambda x: _labels.issubset(x))
+        holdouts.append(df[mask])
+
+    for comb in combinations:
+        _labels = set(comb)
+        mask = df['labels'].map(lambda x: _labels.issubset(x))
+        df = df[~mask]
+
+    ds = BaseDataset().from_df(df)
+    #print(len(ds.df.index))
+    #print(ds.terms['count'].min())
+    ds.names = names
+
+    if return_holdouts:
+        return combinations, holdouts
+    else:
+        return _TrainTestVal(ds, sample_size, random_seed)
+
+def TrainTestVal(dataset, sample_size, random_seed):
+    ds = Dataset(dataset)
+    return _TrainTestVal(ds, sample_size, random_seed)
+
+def _TrainTestVal(data, sample_size, random_seed):
     '''
     Returns (and if necessary generates) the train, test and validation splits
     from <dataset> such that each label is represented with at least <sample_size> sequences.
     '''
-    data = Dataset(dataset)
     df = data.df.copy()
-    name = '_'.join(dataset.split(' ')+[str(sample_size)])
-    test = TestingSet(dataset, sample_size, df, name='test')
+    terms = data.terms['term'].to_list()
+    godag = data.godag
+    name = '_'.join(data.names.split(' ')+[str(sample_size),str(random_seed)])
+    test = TestingSet(data.names, df, sample_size, random_seed, name='test', terms=terms, godag=godag)
     df = data.df.copy()
     df.drop(df[df['id'].isin(test.df['id'])].index, inplace=True)
-    val = TestingSet(dataset, sample_size, df, name='val')
+    val = TestingSet(data.names, df, sample_size, random_seed, name='val', terms=terms, godag=godag)
     if os.path.exists(PATH+'/traintestval/{}/train.csv'.format(name)):
         train = pd.read_csv(PATH+'/traintestval/{}/train.csv'.format(name), converters={'labels': lambda x: x.split('; ')})
         train = BaseDataset().from_df(train)
@@ -115,7 +156,7 @@ def TrainTestVal(dataset, sample_size):
         train = BaseDataset().from_df(train_df)
         train_df['labels'] = train_df['labels'].map(lambda labels: '; '.join(labels))
         train_df.to_csv(PATH+'/traintestval/{}/train.csv'.format(name), index=False)
-    train.names = dataset
+    train.names = data.names
     return train, test, val
 
 
@@ -123,21 +164,23 @@ class TestingSet:
     '''
     Base class for a testing set. Implements creating, loading, and evaluation.
     '''
-    def __init__(self, dataset, sample_size, pool, name):
+    def __init__(self, dataset, pool, sample_size, random_seed, name, terms, godag):
+        pool = pool.sample(frac=1, random_state=random_seed)
         self.name = name
+        self.seed = random_seed
         self.dataset = dataset
         self.sample_size = sample_size
         self.df = None
         self.means = None
         self.space = FeatureSpace()
-        self.data = Dataset(self.dataset)
         self.pool = pool
-        self.terms = self.data.terms['term'].to_list()
-        self.godag = self.data.godag
+        self.data = BaseDataset().from_df(pool)
+        self.terms = terms
+        self.godag = godag
         self.load()
 
     def load(self):
-        name = '_'.join(list(self.dataset.split(' '))+[str(self.sample_size)])
+        name = '_'.join(self.dataset.split(' ')+[str(self.sample_size),str(self.seed)])
         if os.path.exists(PATH+'/traintestval/{}/{}'.format(name, self.name)):
             TESTSET = pd.read_csv(PATH+'/traintestval/{}/{}/df.csv'.format(name, self.name), converters={'labels': lambda x: x.split('; ')})
             with open(PATH+'/traintestval/{}/{}/means.pkl'.format(name, self.name),'rb') as file:
@@ -150,7 +193,7 @@ class TestingSet:
             self.terms = list(MEANS.keys())
             self.means = np.array(list(MEANS.values()))
         else:
-            print('{} set not found. Creating...'.format(self.name))
+            print('Set not found. Creating...')
             if not os.path.exists(PATH+'/traintestval'):
                 os.mkdir(PATH+'/traintestval')
             if not os.path.exists(PATH+'/traintestval/{}'.format(name)):
@@ -164,7 +207,7 @@ class TestingSet:
             self.global_mean = self.space.mean_map(TESTSET['sequence'].to_list())
             MEANS = {term:mean for term,mean in zip(self.terms,test_means)}
 
-            self.metrics = self.evaluate_set()
+            self.metrics = self.evaluate_testset()
 
             TESTSET['labels'] = TESTSET['labels'].map(lambda labels: '; '.join(labels))
             TESTSET.to_csv(PATH+'/traintestval/{}/{}/df.csv'.format(name, self.name))
@@ -183,7 +226,10 @@ class TestingSet:
         ids = {key:[] for key in terms}
         for index,row in df.iterrows():
             for label in row['labels']:
-                ids[label].append(index)
+                if label in ids:
+                    ids[label].append(index)
+                else:
+                    print('Warning: Unidentified label {}'.format(label))
         return ids
 
     def set_means(self, set, ids):
@@ -208,12 +254,12 @@ class TestingSet:
         print()
         return TESTSET, sample_ids
 
-    def evaluate_set(self):
-        factor = 1 if self.name == 'test' else 2
-        n_rep = int((self.data.terms['count'].min()-factor*self.sample_size)/self.sample_size)
+    def evaluate_testset(self):
+        n_rep = int((self.data.terms['count'].min()-self.sample_size)/self.sample_size)
         if n_rep < 1:
             raise Exception('Not enough sequences in dataset to evaluate testset with sample size {}.'.format(self.sample_size))
-        n_rep = 10 if n_rep > 10 else n_rep
+        #n_rep = 10 if n_rep > 10 else n_rep
+        n_rep = 1
         val = []
         rnd = []
         for i in range(n_rep):
@@ -221,7 +267,10 @@ class TestingSet:
             RNDSET = VALSET.copy()
             RNDSET['sequence'] = np.random.permutation(RNDSET['sequence'].values)
             val.append(self.evaluate(VALSET, group_ids=VALIDS))
-            rnd.append(self.evaluate(RNDSET, group_ids=VALIDS))
+            rnd_eval = self.evaluate(RNDSET, group_ids=VALIDS)
+            RNDSET['sequence'] = [['L']*2048]*len(RNDSET.index) # constant sequence to maximize MMD
+            rnd_eval['global_distance'] = self.global_mmd(RNDSET)
+            rnd.append(rnd_eval)
         val_metrics = dict(pd.DataFrame(val).mean())
         rnd_metrics = dict(pd.DataFrame(rnd).mean())
         val_metrics = {'val_'+key:val_metrics[key] for key in val_metrics}
@@ -232,7 +281,12 @@ class TestingSet:
             metrics['val_'+m+'_std'] = np.std([v[m] for v in val])
             metrics['rnd_'+m+'_std'] = np.std([r[m] for r in rnd])
 
-        name = '_'.join(self.dataset.split(' ')+[str(self.sample_size)])
+        name = '_'.join(self.dataset.split(' ')+[str(self.sample_size),str(self.seed)])
+        for m in ['val_term_distances','val_reciprocal_ranks','val_reciprocal_ranks_wo_parents','val_reciprocal_ranks_wo_childs','val_reciprocal_ranks_wo_both','rnd_term_distances','rnd_reciprocal_ranks','rnd_reciprocal_ranks_wo_parents','rnd_reciprocal_ranks_wo_childs','rnd_reciprocal_ranks_wo_both']:
+            if 'distance' in m: kwargs = {'vmin': max(metrics[m]),'vmax':0}
+            else: kwargs = {}
+            plot_dag(self.terms, metrics[m], self.godag, PATH+'/traintestval/{}/{}/{}.png'.format(name, self.name, m), **kwargs)
+
         with open(PATH+'/traintestval/{}/{}/metrics.json'.format(name, self.name), 'w') as file:
             json.dump(metrics, file, cls=NumpyEncoder)
 
@@ -284,7 +338,7 @@ class TestingSet:
         mrr = np.mean(rr)
         return mrr
 
-    def pval(self, x, y, n_jobs=10):
+    def pval(self, x, y):
         m = len(x)
         original_mmd = self.space.mmd(x,y)
         aggregated = x+y
@@ -298,7 +352,7 @@ class TestingSet:
             return space_mmd(x_hat,y_hat)
 
         if t > 100:
-            MMDs = Parallel(n_jobs=n_jobs)(delayed(random_mmd)() for i in tqdm(range(t)))
+            MMDs = Parallel(n_jobs=20)(delayed(random_mmd)() for i in tqdm(range(t)))
         else:
             MMDs = [random_mmd() for i in range(t)]
         rank = float(sum([mmd<=original_mmd for mmd in MMDs]))+1
