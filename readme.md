@@ -102,7 +102,7 @@ The data will be automatically downloaded and preprocessed. Remember to regenera
 ## Create own test and validation sets
 Specify the dataset from which the splits should be created, the minimum sequence number per label, and a random seed number that identifies the data split:
 ```python
-from eval.eval import TrainTestVal
+from eval.eval import TrainTestValHoldout
 train, test, val = TrainTestValHoldout('myNewDataset 100labels', 500, 1)
 ```
 This will create the splits and evaluate them to define positive and negative control values. They are saved in _eval/traintestval/myNewDataset_100labels_300/{test or val}/metrics.json_.
