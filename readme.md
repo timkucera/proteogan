@@ -105,7 +105,7 @@ Specify the dataset from which the splits should be created, the minimum sequenc
 from eval.eval import TrainTestValHoldout
 train, test, val = TrainTestValHoldout('myNewDataset 100labels', 500, 1)
 ```
-This will create the splits and evaluate them to define positive and negative control values. They are saved in _eval/traintestval/myNewDataset_100labels_300/{test or val}/metrics.json_.
+This will create the splits and evaluate them to define positive and negative control values. They are saved in _eval/traintestval/myNewDataset_100labels_500_1/{test or val}/metrics.json_.
 
 
 ## Implement your own model
