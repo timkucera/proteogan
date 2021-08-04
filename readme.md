@@ -1,9 +1,9 @@
 ## ProteoGAN
-This repository contains code accompanying "Conditional Generative Modeling for De Novo Hierarchical Multi-Label Functional Protein Design".
+This repository contains code accompanying "Conditional Generative Modeling for De Novo Protein Design with Hierarchical Functions".
 
 
 ## Installation
-First clone and cd into the repository. You can install our preconfigured environment via conda:
+First clone and cd into the repository. You can install with the preconfigured environment via conda:
 ```sh
 conda env create --file environment.yml
 conda activate proteogan
@@ -11,13 +11,10 @@ pip install bioservices # conda can throw a compatibility error here, hence inst
 ```
 or install the requirements yourself:
 ```sh
-conda install -c anaconda tensorflow-gpu=2.0 # Has only been tested with 2.0
-conda install pandas numpy matplotlib seaborn scikit-learn
-conda install -c bioconda goatools
-conda install -c conda-forge tqdm
+conda install tensorflow-gpu=2.0 pandas numpy matplotlib seaborn scikit-learn goatools tqdm -c bioconda -c conda-forge  -c anaconda
 pip install bioservices # conda can throw a compatibility error here, hence install with pip
 ```
-We included our training data in this repository. Extract it with:
+Extract training data with:
 ```sh
 tar -xzvf ./data/datasets/base/data.csv.tar.gz -C ./data/datasets/base/
 ```
@@ -115,5 +112,5 @@ If you would like to implement your own model but use our data, training and eva
 ## Citation
 If you use code from this repository in your work we kindly ask to cite accordingly:
 ```
-The paper is currently under review at ICML 2021.
+The paper is currently under review. A citation will be made available soon.
 ```

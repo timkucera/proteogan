@@ -3,4 +3,4 @@
 *.pyc
 __pycache__/
 data/datasets/base/data.csv
-test/
+./test/

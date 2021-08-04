@@ -23,7 +23,7 @@ class FeatureSpace():
     '''
     def __init__(self, spectrum=3):
         self.spectrum = spectrum
-        self.mode = 'indicate'
+        self.mode = 'count'
         self.kmers = [''.join(i) for i in itertools.product(amino_acid_alphabet, repeat = spectrum)]
         self.trie = self.parse_dictionary(self.kmers)
 
@@ -285,7 +285,7 @@ class TestingSet:
         for m in ['val_term_distances','val_reciprocal_ranks','val_reciprocal_ranks_wo_parents','val_reciprocal_ranks_wo_childs','val_reciprocal_ranks_wo_both','rnd_term_distances','rnd_reciprocal_ranks','rnd_reciprocal_ranks_wo_parents','rnd_reciprocal_ranks_wo_childs','rnd_reciprocal_ranks_wo_both']:
             if 'distance' in m: kwargs = {'vmin': max(metrics[m]),'vmax':0}
             else: kwargs = {}
-            plot_dag(self.terms, metrics[m], self.godag, PATH+'/traintestval/{}/{}/{}.png'.format(name, self.name, m), **kwargs)
+            #plot_dag(self.terms, metrics[m], self.godag, PATH+'/traintestval/{}/{}/{}.png'.format(name, self.name, m), **kwargs)
 
         with open(PATH+'/traintestval/{}/{}/metrics.json'.format(name, self.name), 'w') as file:
             json.dump(metrics, file, cls=NumpyEncoder)
