@@ -112,5 +112,5 @@ If you would like to implement your own model but use our data, training and eva
 ## Citation
 If you use code from this repository in your work we kindly ask to cite accordingly:
 ```
-The paper is currently under review. A citation will be made available soon.
+The paper is currently under review.
 ```
