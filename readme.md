@@ -1,5 +1,5 @@
 ## ProteoGAN
-This repository contains code accompanying "Conditional Generative Modeling for De Novo Protein Design with Hierarchical Functions". It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
+This repository contains code accompanying **"Conditional Generative Modeling for De Novo Protein Design with Hierarchical Functions"**. It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
 
 Note that, due to conflicts with our license, evaluations with UniRep and ProFET embeddings are not included in this repository. However, it is relatively straightforward to include any alternative embedding by providing a mapping function to the modules in `proteogan.metrics`. (See also bibliography notes below)
 
@@ -7,14 +7,14 @@ To train ProteoGAN, run `python -m train.train proteogan 1`, where `1` is the sp
 
 You may use the MMD and MRR metrics to evaluate your own generated sequences. Note that the metric values depend on the reference sequence set they are applied to. We provide the reference sets of the paper in this repository. Load them with:
 
-´´´
+```
 from data.util import load
 
 split = 1
 train = load('train', split)
 test = load('test', split)
 val = load('val', split)
-´´´
+```
 
 The dataset contains primary sequences of 150.000 proteins and their annotations of 50 GO molecular function labels (compare paper).
 
