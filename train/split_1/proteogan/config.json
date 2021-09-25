@@ -1,0 +1,1 @@
+{"batch_size": 128, "z_dim": 100, "label_dim": 50, "seq_dim": 21, "seq_length": 2048, "kernel_size": 12, "strides": 8, "ac_weight": 135, "pad_sequence": true, "pad_labels": false}

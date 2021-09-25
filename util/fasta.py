@@ -1,26 +1,28 @@
-# -*- coding: utf-8 -*-
-def fasta_to_dict(fasta):
-    d = {}
-    name, seq = False, ''
-    for line in fasta.splitlines():
-        line = line.rstrip()
-        if line.startswith(">"):
-            if name: d[name] = seq
-            name = line[1:].split(' ')[0]
-            seq = ''
-        else: seq += line
-    d[name] = seq
-    return d
 
-def fasta_to_list(fasta):
-    l = []
+def save_as_fasta(data, path):
+    fasta = to_fasta(data)
+    with open(path,'w') as file:
+        file.write(fasta)
+
+def to_fasta(data):
+    fasta = ''
+    for seq,labels in data:
+        fasta += '>{}\n{}\n'.format(' '.join(labels), seq)
+    return fasta
+
+import pandas as pd
+def fasta_file_to_df(path):
+    with open(path,'r') as file:
+        fasta = file.read()
+    df = []
     name, seq = False, ''
     for line in fasta.splitlines():
         line = line.rstrip()
         if line.startswith(">"):
-            if name: l.append([name,seq])
-            name = line[1:].split(' ')[0]
+            if name:
+                df.append({'name':name, 'sequence':seq})
+            name = line[1:]
             seq = ''
         else: seq += line
-    l.append([name,seq])
-    return l
+    df.append({'name':name, 'sequence':seq})
+    return pd.DataFrame(df)

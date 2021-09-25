@@ -1,6 +1,13 @@
 .*
-!/.gitignore
 *.pyc
 __pycache__/
-data/datasets/base/data.csv
-./test/
+model_old/
+embed/profet.py
+embed/unirep.py
+data/labels100.txt
+data/labels200.txt
+models/transformer.py
+models/config.py
+train/split_1/*
+!train/split_1/proteogan
+train2/
