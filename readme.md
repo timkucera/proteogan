@@ -7,7 +7,7 @@ To train ProteoGAN, run `python -m train.train proteogan 1`, where `1` is the sp
 
 You may use the MMD and MRR metrics to evaluate your own generated sequences. Note that the metric values depend on the reference sequence set they are applied to. We provide the reference sets of the paper in this repository. Load them with:
 
-```
+```python
 from data.util import load
 
 split = 1
@@ -20,7 +20,7 @@ The dataset contains primary sequences of 150.000 proteins and their annotations
 
 Once you have generated some sequences, provide them to MMD and MMR. MRR needs the labels the generated sequences were conditioned on as a list of lists. Usually these would be the labels of a test set you want to compare to.
 
-```
+```python
 from metrics.similarity import mmd
 from metrics.conditional import mrr
 
