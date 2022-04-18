@@ -1,0 +1,142 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      MENRVTQKEMNRPFNGTVNKRSAYEDDLRAPYLNFQISFIFTVKINVLSTSFFCSFCDEK
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      IFYLFSNLDADFWSMMSGENEEQEEKASALRQSLLFPQYFVSLPEIVLQELKLLLLYRKN
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      MGCYLLQFVTVGKCMMPTKQTREDYPDFLKFVYEMQKLWIASVMNRKLSITISASEALAA
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      LSSDGRSARYRAPSNASLALVLVATEVCHYDSEFPECYGSGKILCGAMEVGTLLASFIYF
+ProteoGAN:D      --------------------------MCAPRSP---------------------------
+ProteoGAN:E      --------------------------------------------------MALLGSAIYF
+                                                                             
+
+ProteoGAN:A      -----------MA--SLDEAETIAHLDDILQTHPAQQLVFALTEEGLELLGTFYA-----
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      GYLHRGAVSDQMEAASDSLVGFIDDINNYLDDGPVRYVL--VLESGIVDAGAVKAVVAMA
+ProteoGAN:D      -------SGPPGGPGSHSDGGHIRG------------LARVVAGSGVHPH----------
+ProteoGAN:E      NVLQRPKTGQRRKAPLLTLVAAL-------------------------------------
+                                                                             
+
+ProteoGAN:A      -------------NQTYLQRFTKE-------VRYLLVGVIIYQVTLAGDTTVVFV-----
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      SRTLYAIILTNVDHMVWVLQFVAQWVPMRVVVIEMTATVFMFNIGLNGDEVAS-------
+ProteoGAN:D      -------------------------------------------RALGGECVVSLNIALII
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      DAGKIS-----------MLQIFSYLSFRKPWLM----S--LLLGKFS--AQQFLYSTSHY
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      HRGIIL-----------VISVAEITQITADSIHSDVCSAIIQIADFRAFYRKLYYHKSAI
+ProteoGAN:D      SRPIILNLIGTACRCAAGLQKTEENKINRLLLHEDCCTAHRCT-----------------
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      RIFLGTFLFLLAGLFLVLLIMYFASYKTIAFKTIYFSTTAALALTLTGVICTFATPVCAL
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      EVFLE----LMRRILFII-----DITKVIAFA-------------------IMAPELCPA
+ProteoGAN:D      ----------------SVLIFDFGATSLCAF-------------------CLYCGYLCCS
+ProteoGAN:E      ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:A      VAL------------------GCAGILGCICYGGQ---LLVLGVGVGRLLAGLGEQ----
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      VLG---------------QLLVQIIILCQICVAG---------VLVGSLYDFAAIFVISI
+ProteoGAN:D      FWGTRPCYVILCLPDCLQPNLFNALRLCRFCECISIPDLHKKHLLFGRIPHIIVDWCIKW
+ProteoGAN:E      ---------------KLRPQARNAMQLAEFTDQQP----------------------LKY
+                                                                             
+
+ProteoGAN:A      ----------LASYYYT-----------SCGIYALWLEKKKISVDG----RKLEGDEDGW
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      IFSLFSVLFFFASYFLLMNNEVYIKSAFEDTLFLLWSTGIGGVLSTLRTLPFLNGD----
+ProteoGAN:D      L------VWTFESSLIYVYRPPYEWP--VLKHLAAWSKGAYYSTNYL----TIIWHTNKW
+ProteoGAN:E      M-----------------------------KSLDLFSTELV------FDIISRVKYDRCW
+                                                                             
+
+ProteoGAN:A      WKDYVGFYRFGSLI----------------------------NYFFPVAWL-KEPAFSLL
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:C      ---TMAILRVGFLL----S-------HPKPY--------TVFNSSQPVSFS-SNPNLSLT
+ProteoGAN:D      WIYTNMFSIMLSLL----VFWLYYADSPRSFFFTDTLRWLLIMKWSPVVFLVCLPPYSLH
+ProteoGAN:E      WVKEVPMSIFTFNQAGAGYLWLRFLKLLKSFV----------GSFFSVVLH---------
+                                                                             
+
+ProteoGAN:A      NKD---------------------------------------------------------
+ProteoGAN:B      -------------MITPDEERRKAPLHGKSPQLAAVRAPASPQRAVPAAVQNRFHIARKL
+ProteoGAN:C      SLVSKTFGDLYVALQMFVETVRVKPLHTKAPPLALSRHTRK------KKLYGRFHPFIGT
+ProteoGAN:D      TLP------------AW--------VRLLNPPFDPRGSRQK------RKL----------
+ProteoGAN:E      LKTLLKFKGMATT------------MEMMDPSWKKCVSTIE------NRLWKAL------
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      TRRAIATEPQVASQEGKG----VLPNTVTVMAEGMGHLFYL-VKRKNIETIKDEIS----
+ProteoGAN:C      VGPHIGCAITVHCGKDSGFVGLDKPDQVAAI--DPQHVLFIYHARRKIKVVDVMVPTVE-
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      ----------TDCGDKPFITECILHDQ---------E-WLLMPDEREILKENVNVPAYEI
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      -R----NGFFDQ----SGI---------EVSF------YVAIG----NLPNAAAWKSSFI
+ProteoGAN:C      ------GAFLPQALREEKEHA-----------------------------VIGGTDT---
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      RVADLLQEFRKTLFDEKAAENIIRINESLVDFDLDRKKYLKHTCHTELRPVSGDYDR---
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      KRGAGDVKHQRKLRDAADEQFRRPMDFDKFSPSSPEFCFGCKYLERKLQIIRRLQPPNLL
+ProteoGAN:C      LLGKSDAKNTAKSADKVKPLIKHVIKQ--IK-------------GSSLVSKTHLQTTNNV
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      SVDDGNRNDRAMMDEMSRTWFTNL-NE--MQ-------------ENA---EFAAFADNKV
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      FQKAVVMPFVGHRKKRTAVSTTALIWRELKILMLLNEAFKQVFKRGVAVLDKVFNNPIPR
+ProteoGAN:C      VRDAATLSV-----------------------IIMEARLKGLL-----------------
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      MLEALAFGVLGTA----------------AAIYLMSPAMTDFL-----------------
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      VEHMQPGGGSFGVGDLSSRWHLVY----GTPPAPLA-YPRPGPLIAFLAPADSFQQSQPS
+ProteoGAN:C      -----DKMTV-A---LTSSLGALITTSIENPST-TECPRRTCPLKINKNGIAGAGKTQ--
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      -----VSQAVFDFGRDSLDLGGFIGVQVGQGHRHYPAYRNLHPDNVRAASVGGGAAYQPN
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      I-DLELVTHSGLNRARSLRMGMRRSGGPGQCSLDGTAGQERRANCGASKKQNQKQKDKLN
+ProteoGAN:C      ---------SVM----------YNSG-----------GSEKRRASE---------EDAV-
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      PINDAYRSTDYIAAVGGMVLDPHGDG-----------GTHLQTRPN-----GQREPEMLV
+                                                                             
+
+ProteoGAN:A      ------------------------------------------------------------
+ProteoGAN:B      ---LSGQQKQMSSSK-PEST-STKQKL----D-SKEIGSAPES-----IIKQEGEANEKR
+ProteoGAN:C      -TRRSNSIMEISNTTFREIRKTCEEELNDCADNSTTSGCSAKCLTCIAVTSPSTDANEKT
+ProteoGAN:D      ------------------------------------------------------------
+ProteoGAN:E      TLPLSVSVVEVLSDAKTLVARDRADDLYAKTD-SLLRG---KT----LFTAKSSEINHGI
+                                                                             
+
+ProteoGAN:A      --------
+ProteoGAN:B      T--QP---
+ProteoGAN:C      FNA-----
+ProteoGAN:D      --------
+ProteoGAN:E      YKAEPAQR
+                         

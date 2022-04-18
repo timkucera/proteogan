@@ -1,0 +1,51 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CVAE:E      MADLVAATTLLGD-----------------------------------GLTGAAGDVGAA
+CVAE:E      MATKDSALLLLLLLPQAALLDCVLLGLKDLKLEDNTGVLGECYG-ILLGITGQGKVVVKE
+CVAE:E      MASEIAAKVILNG-----------------------------------VGAGVAAPAPDE
+CVAE:E      MARLLLLLLLLLLALAAGVAAVGGALLKDVLAGDAAEVLGPEKEGLLGGGDGLAGVVVED
+CVAE:E      MASELLLVLLLLLLLLELVLALGGKLLLDLLAVDDWEVLGHGKEGLLGGGELLGGVLVED
+            **       :*                                          .      
+
+CVAE:E      AA-------------------------KEAFASES------VPPRN------EESIVAV-
+CVAE:E      THGFDFCKGPVPFEVVKDELDPLGYILAKALDVKVEDEDCTVKKKSELDGVVEDNPLKVF
+CVAE:E      AP--------------------------KAVLPDR------VAPRA-----KHGSLVKL-
+CVAE:E      LGEPG-GEVAVEFGVYGGGVVGDDGGAAAAIKVDTVKEGG-GGDKR---GGIGGVILITG
+CVAE:E      LGGPG-LERAVFFGVYGGKLFLYDLTGGKVILPGGEREGW-VGPRRLLDGGVGALLELEG
+                                         ..             :               
+
+CVAE:E      ---GIGLSDKYAVD----EQLSIELLLTLLTIIIAIIINSDSISIIHH---------TSN
+CVAE:E      DSILSGIGKDLVSDTCGGLPGD---------------GDG--CIIIAS-----KIGVE--
+CVAE:E      ---GQ--KSFFVGDVAQGETEHLRELRSELGGIRTIVADG-ELIMVHTFYLVTFVALEEE
+CVAE:E      ATG---------------------------------VGGG--V--GGG-----GVDD---
+CVAE:E      LTLDGGLKLKLVVELLKGGPGH--------------LGDG--VFIGGL-----GVVYL--
+                                                  ..                    
+
+CVAE:E      ELAVASADSLLKSIEANALI-----------------------------KARTVL-----
+CVAE:E      ------ENPDERGASIKVFLRSKLYVVKGITFTGYVPAFTLQNAGKEERDGDIGKHYGEI
+CVAE:E      ARGLGEAGGVVKAIDTKLFRQIALEFLV----TIFKAVWGFKNSGYASLRGQTLL-----
+CVAE:E      ------VEGVKAGFADK-------------------------------------------
+CVAE:E      ------EVGVVDGYDKEVFAGGLLV-------------TVLAGLGGGTVDGTISPLSK--
+                        .   :                                           
+
+CVAE:E      --------AQIIINEA-D----------------------------ANVAIVEIS-----
+CVAE:E      KLDGAEHDNKPDKNEDPKGALIVDGLSNGKLVIKLMLKFPIMTADE-------TDYIDVN
+CVAE:E      TVSGVDLKSTVVIEEA-SFLLFGLRLEGRVI------TVGVAYTDEEGVSLFEYEFIRDE
+CVAE:E      ------------------------------------------------------------
+CVAE:E      -----EETDEFGGDGD---PLFVLDLKDGVL--GFLLKLGDKEEEE-------G------
+                                                                        
+
+CVAE:E      ------------------------------------------------------------
+CVAE:E      LDENYI-----WLANF------EILGEGNGLDADELLN----------------------
+CVAE:E      VKKLLVFSYGIFVAAVSLEEVTEIGYDGERLESNKVVKVVEGLLVAFVGGIETVAECIEK
+CVAE:E      ------------------------------------------------------------
+CVAE:E      ------------------------------------------------------------
+                                                                        
+
+CVAE:E      -------------------------------------------------------
+CVAE:E      -------------------------------------------------------
+CVAE:E      RLVMLIPKPYAKSPSVVGPSYKTAVVEARKTKEVTISVPLDSSGSAFVKVDIRRI
+CVAE:E      -------------------------------------------------------
+CVAE:E      -------------------------------------------------------
+                                                                   

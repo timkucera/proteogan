@@ -1,0 +1,65 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CVAE:A      MAGKLLSRPLQ----------------------------LFL------------------
+CVAE:B      MAKDKAEKELTKPKRKSKRRLGEREKPRAVDLIRLRHKDRQLSKVIQSRKDKRKVKAIRG
+CVAE:C      MAD------------------------------------ITL------------------
+CVAE:D      MASGLILRFLLELL----------------CFARLVLGAESLS-----------------
+CVAE:E      MADLVAATTLL--------------------------GDGLT------------------
+            **                                                          
+
+CVAE:A      ------RDDPDPESLSESEEIILVAPANNVYIPEGLYAEGTQPV---EDAGEVEGKKRPE
+CVAE:B      KLRETRAQLAPLREVVKKPPLILLIQKKKV-------------IKLLGRNLEETFEEREG
+CVAE:C      ------GDAADLGGFFEAA---------------DMALSEVESEERLEAKESVTIELRFA
+CVAE:D      ---LTPGLSGEYGDYYSG------------------------------------------
+CVAE:E      ------GAAGDVGAAAAKE---------------AFASESVPP-----RNEESIV----A
+                                                                        
+
+CVAE:A      GGLGLPN-----------------VAVGGVIFDPCGDV------VKIGILKGVVRGLGPA
+CVAE:B      GGLPIAKQPPANPVTGEDGKALFGVTDG-PGHKPCGPSPIKKRESKVGNLQE--------
+CVAE:C      GGDQLSK-----------------EKADEGG----EEK------LKDHLLVAITS---IE
+CVAE:D      ----------------------------PDKLNPVPVH------DKIG----LDRGQPIP
+CVAE:E      VGIGLSD-----------------KY---AV----DEQ------LSIELLLTLLT---II
+                                                         .              
+
+CVAE:A      KTVVI---------ALGQYLLGFNGLKRTAGLSSGKF----VLRRVIRP-FGFLEVMI-V
+CVAE:B      ------------------------------------------------------------
+CVAE:C      AGI-I---------RTPSFFTA-----EALNKSEGGIDKELEKATVILA-DEVDNSHL--
+CVAE:D      QGLMNNNHNIRTIWCLYNYVLYLAEIDETNDCNRD-----FEGKKLEYHYDDVAHPLIIC
+CVAE:E      IAIII---------NSDSISIIHHTSNELAVASADSLLKSIEANALIKA-RTVLAQII-I
+                                                                        
+
+CVAE:A      GAATSAGL-LPEVV-AIVITLALVGAAAIAILALIAVGGSLDGDVYLGGRDWVSYKAGGF
+CVAE:B      ------------------------------------------------------------
+CVAE:C      A-DKSAGI-LVELVPAIFVAI---------------------------------------
+CVAE:D      SKDKEEHIHIILICRLREERELYKGCKAHHF-----LKG--SSDLGLNEDEWFSGENPPF
+CVAE:E      N-EADANVAIVEIS----------------------------------------------
+                                                                        
+
+CVAE:A      GLFVVVFVIKA------------------------------------------TITTMFL
+CVAE:B      --------VDPITRRNVEVEAFLHKKKKVLGLYRPAKDGQGYLNA-------RQTTTSKL
+CVAE:C      -----------------------------------------------------KLKSLFA
+CVAE:D      KAFEEVYNTPPLTKRSVRTEIWDEWSK--------GPDDVHLLEEIVSKKWEDGLNTLYQ
+CVAE:E      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      GFGV----------------LFVLDDVGHMKAKRKFIDIYFELIVIC---------CLVP
+CVAE:B      LVKGPFGLECTAK----------------VIGDLEL------------------------
+CVAE:C      ENAE----------------LLVSR-----------------------------------
+CVAE:D      GIGGPFGPNIPYGGDGSTGLLFLNQGGKNITGSLRFTAMSFKKHPTVKGKSNRARTRALQ
+CVAE:E      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      FRVVGFKGKASDVLDDWTHVSFPLL----------LIKKFDVTIVKGFTFILLLLNLCVN
+CVAE:B      QRLYKVDEEATRLAFEPR------------------------------------------
+CVAE:C      ----------------------PE------------------------------------
+CVAE:D      EHVFDFDSDTERYRFLWTRLQGRRLHDEFNQEKSEINHHMEIVLMGTIFFCYLYRNGCGK
+CVAE:E      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      CKTEKEKELVYNLAKTCGGLGTAAIISYTDVLFGIGKGYQLDMNTVYSFLFFCLIQFIFY
+CVAE:B      ------------------------------------------------------------
+CVAE:C      ------------------------------------------------------------
+CVAE:D      NRIPKRWRHR--------------------------------------------------
+CVAE:E      ------------------------------------------------------------
+                                                                        

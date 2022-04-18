@@ -1,0 +1,58 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CVAE:A      MAGKLLSRPLQLFLRDDPDPE------SLSESEEIILVAPANNVYIPEGLYAEGTQPV--
+CVAE:A      MAGAVLLNLGLDAALLAAAAAVGKAERIIIRTKEKL-ARPDP----LKF-EAQDKAILIY
+CVAE:A      MPGTVLLLFAQDMVRLTGIALEL------SEAGDEIEAEPKKNRLIAEGFEAIGKSI---
+CVAE:A      MGGPALLDLEIDDGEFEDDEEEG------SEGAEIILAEEKVPVGETEGFGVGDKQVTKD
+CVAE:A      MAGKLLLLLLLLLLLLELAAGVA--LALFIEILAPVGKRGLP----LESLGAEGETFLLT
+            * *  *                        .    :           :   . .      
+
+CVAE:A      ----EDAGEVEGKKRPEGGLGLPNVAVGGVIF--DPCGDVVKIGILKGVVRGLGPAKTVV
+CVAE:A      E-ECVKVGLGEGELAGAERLRK-----GGLIKVLLFVAYLIVNGFVGGKIKELGTPRSTL
+CVAE:A      ---RLEVGLKGGVLRKEKILRL-----IAS-YVAIIFNVPLFFMVLGGFFKSGGEAVNLS
+CVAE:A      ------RETLKGTGRPKEDGKLPREYKPGAIDEESRFDLTVYDLM---------PVTKVD
+CVAE:A      TLGLEAGGVGGGLLKGAAGIV------GGAGNVLTLFAYLFFGFILGGLGGLVGTG-GLL
+                       *                .           .   .               
+
+CVAE:A      IALGQYLLGFNGL--KRTAGLSSGKFVLRR--VI----RPFGFLEVMIVGAATSAGLLPE
+CVAE:A      FDLET-ESFYGGH-------LRGNLSFLSK--VFIIFFIDFGLLLIVF-----VAGALPW
+CVAE:A      FLV-L-EAGFKETIFLDILGLRIGLMFLAV--LAIY---RFNVVCPLT--GNGAGGAIVA
+CVAE:A      FEEALRATLFDGLIL-GALGLEGFGILQEEAVLLIIRKYCHGFLLLQLVV---AAGVIIY
+CVAE:A      LGFGL-ALGAG-----------------------------GGLLL-LL-----LGGGLVV
+            :                                        ..:          .* :  
+
+CVAE:A      VVAIVITLALVGAAAIAI-----------LALIAVGGSLDGDVYLGGRDWVSYKAGGFGL
+CVAE:A      ISKTNI------------------------------------------------------
+CVAE:A      I---LI------------------------------------------------------
+CVAE:A      --------KLLGVHALPFIADSENRLPIILALLR-GTGLLVKPIDEDREQVEYLLVGLEL
+CVAE:A      A-----------------------------------------------------------
+                                                                        
+
+CVAE:A      FVVVFVIKATITTMFLGFGVLFVLDDVGHMKAKRKFIDIYFELIVICCLVPFRVVGFKGK
+CVAE:A      -----------------------------VEIKGQLADVFKPLII-------LRLG----
+CVAE:A      -----------------------------IAASAVVANVALPGII--------RAGYSSS
+CVAE:A      KKTILILAATIDTEFS-------------------FTN----------------------
+CVAE:A      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      ASDVLDDWTHVSFPLLLIKK--------------------FDVTIVKGFTFILLLLNLCV
+CVAE:A      AILTVIDDSRPIL------------------------PAYLLIHIIDGFGIAARINRLFL
+CVAE:A      GLLYIRDWYRAVVPVLHEMGINVITIIAEMGYFSLATPKIFGVGLVSAFGASDPLSSIFF
+CVAE:A      EYRLISSRPSVNIPLSLIAKIGIIIKIL--------------------------------
+CVAE:A      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      NCKTEKEKELVYNLAKTCGGLGTAAIISYTDVLFGIGKGYQLDMNTVYSFLFFCLIQFIF
+CVAE:A      VKI--HDTLFLF---GLCGALSFVLE----------RHGF------------IVLIRLF-
+CVAE:A      VNK---DIKFPY---QNTGVTSLACA------------G---------------------
+CVAE:A      ------------------------------------------------------------
+CVAE:A      ------------------------------------------------------------
+                                                                        
+
+CVAE:A      Y
+CVAE:A      -
+CVAE:A      -
+CVAE:A      -
+CVAE:A      -
+             

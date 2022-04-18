@@ -1,0 +1,86 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ProGen:E      MASEVTAALRLGSLLRAIRASACCLPASSSSSTVSPVTQSPKYDL---------------
+ProGen:E      ----------------MYLMLPTIKDFS---LEASPLDAAGELEINFSRSSQMVKSERAS
+ProGen:E      ------------------------------------------------------------
+ProGen:E      -------------MLRHILAQPCVLPMHLARLTLAELDADGLFR----------KAETLA
+ProGen:E      ----------------MFRS-----------L----------------------ENARAS
+                                                                          
+
+ProGen:E      -------------LDALLCTAGCE-VER--------------------------------
+ProGen:E      LNHKL-VFFTGNRPSDPLRIYGIQESDYWWSPRQKLGRT--RPFRSTKIITELINIDGPE
+ProGen:E      -------------------------MHRNWDQRNAHMD----PIKA----SNAHNNEAPN
+ProGen:E      CRGELPRYDYGSTISKGFCLLG-DPTAYRWPGTTHCGTLIGRPWLKPEKLEQLKA-----
+ProGen:E      FSNVLSQH----TYQTHLALRGS-------------------------------------
+                                                                          
+
+ProGen:E      ------------------------------LVEEEGQFGYACISV-----AR----KIIP
+ProGen:E      --SKVLLIVLQVANKFEDGKTIGVTIGTGAFTFDVTNLGYTSQVTYFLSHSKRIK-LLTK
+ProGen:E      PMDGLFMV-V-----------------------ESPNKGFGTDLIQTISETVDLVEAREL
+ProGen:E      ---------------------L------------VKEVGFDAILSQRVSEV---------
+ProGen:E      ----------------------------------DTITGFSTQSS-LLSEIIRNS-AFIQ
+                                                    *:                    
+
+ProGen:E      QQK------------PNLWIAYN-------HLFLSHCDPGCAFSDEYHQALHTADKLA--
+ProGen:E      NKPPLCK-----NPF------------REDQPYLVKCGGGSTFATSL-------------
+ProGen:E      DTAPQCFTISCIPKFVESWIDEDNVKLDKAKVNLVICQGQALQDIVQKRREEILKQVAAK
+ProGen:E      REEPLT---------------------------MI-------------------------
+ProGen:E      GQSPSFFHLPAPD---GHLINDDE------TM-----------------------HIAVE
+                                                                          
+
+ProGen:E      --------------FTKTLPLVVAYKCC--FGVSISYTLLS--VEE--------------
+ProGen:E      -----------------------YQKKFRELGVF-QNDLE-DEKLKRLEDCHLRLQTEQS
+ProGen:E      MLRHSIHTGPREFDCSDDADMMVLTELCEAIGKLIVDDVE-RDLEDGIPDYHGTT----Y
+ProGen:E      ------------------------------------------------------------
+ProGen:E      VPEH-----------SVDDFLDCYSRLCEAFRLTLHSETLSFDVPIEAPIRLVIVGSLPS
+                                                                          
+
+ProGen:E      -------------------------------N---LNHYLTRIL----------------
+ProGen:E      ALLIEKHKAMIAGRQLLQEFFEGLKRRNSLEK---IV---RQI------EQETDEMLRTE
+ProGen:E      HIL----HGLTCG-DLN-----EVLPEGYWEN---PDIFLSGIISAGYATMSNGDYIISK
+ProGen:E      ----------------------GFGPPDTWKK---LE---SRI--------------RLK
+ProGen:E      DIIY---DTLRSDKDLGFDFPGRFAETGYTTDLEYIDMTFSEQLGKCYRHHYRP---FPV
+                                             .                            
+
+ProGen:E      ---------------------------------------------SSCQKPKFYLPMLAV
+ProGen:E      QNLLKRLEQLGNSVGR----------RRENEF----------------------------
+ProGen:E      QDSSKTFHVLGDRISEDWADAKVMKQKELGEFSFTDKP-------------------FPI
+ProGen:E      HGQLYTLKPKG----E----------NFERKY----------------------------
+ProGen:E      SLALPLLMVLGRHLGRVTD---------PLAFLFCSSAFAGYPYLKRCLKPEPFYSLFPL
+                                                                          
+
+ProGen:E      FWAAVVVIPWLGLPASTYQHKSAQDFSPEMSQKAQQMAQ--------QYKQIQAYYLLLL
+ProGen:E      -----------RF-A---D------RREKLR--PLQFA-GGRPSGAGTVGYGFGWGKT--
+ProGen:E      VRYNIGNPKRTRY-N---DPKEK--IRTKLT--TLQMCSVGGIRALQDIKYEREWGTT--
+ProGen:E      -----------GF-S---DPEQLRERGESLR--SVAFH-HL-------------------
+ProGen:E      LLFLVRHLGYGGCLD---EPDE-RVFDHRMS--AIL-----E-SRRAFLGDATRWFLTFI
+                                :          :                              
+
+ProGen:E      R-----GKYSGSRLHLQL---------TKDNSPTLLE-----------------FLSREV
+ProGen:E      ASE--DQGYLQRLVHLPGGGKSPGGSMTRGSRPPMHLPVGGVRIEERAFAAIQLISKARV
+ProGen:E      KCS--QNQ----------------------------------------------------
+ProGen:E      ------------SVAIDA---------------------GREQIEGRRLGDQ--------
+ProGen:E      DCDASDLTSVSRRLHVDAAVVSR-----------VRKAVSGKQLSESEL---WYSFRKEQ
+                                                                          
+
+ProGen:E      DLALDFVLA--ARF----QARAHSSKCLPLTGLIEGLIAVYTTWHYYESVGDQLEELHYW
+ProGen:E      DCALNRET-DLETFCNPELVQAGGRPCPGFNKLY---------------IED-----IAH
+ProGen:E      ------------------------------------------------------------
+ProGen:E      -------N-GLE-------------PTE--------------------------------
+ProGen:E      ECAICFSTFGMSLF--SKVIAEGSRIELDLGIPL---L--------AASVGT-----IYW
+                                                                          
+
+ProGen:E      HIKQPLKPYPEF---VNPVYMKYAERTNR----VHQAVLQALGWSVMKWQYMNVNKYPLD
+ProGen:E      LVQYYFPGP-----EGLCRFMMYTSGLGRTERGVHHEDIKYRSERRLIYQFDCL-GYNFK
+ProGen:E      ------------------------------------------------------------
+ProGen:E      ------------------------------------------------------------
+ProGen:E      LLTVSFFVWESLLILMSCTALYYALELGTNCI-VVEETEKFPSLESATWHFSVI-ALNLR
+                                                                          
+
+ProGen:E      I---IHPVAVYAE--FRPRLSKFLKKL--------
+ProGen:E      -----------------------------------
+ProGen:E      -----------------------------------
+ProGen:E      -----------------------------------
+ProGen:E      VSVSIAPLEYQKCIALRSLKKNQATKLTLLYRGTC
+                                                 

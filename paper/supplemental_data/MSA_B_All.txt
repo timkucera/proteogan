@@ -1,0 +1,546 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ---------MATLTLLITSAALSAVDTLEQLIKISTKLLPLNFQ-----------ATSLF
+ProteoGAN:B      ML-----------KLLLQ-------------------TLKS-------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ----------------------------------------------------------MS
+ProGen:B         ------------------------------------------------------------
+ProGen:B         MVSIMQSKVQDTLNLYT-TAEYS------QLHLKRRNELPKCCNKTRSNVVESMRSRGLC
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      --------------------MPGEAGLGGSDAITTFQRQYVG------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      V-TN---PEVLYRIL------RAAAGYKFGP--VFFEEE---------------------
+ProteoGAN:B      ----------NFKIKK--------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         AAVT-------------------------------------------PSGHITDRVAVSS
+ProGen:B         ------------------------------------------------------------
+ProGen:B         MAPTPAHRISDYRIIECCPIFKGPAGEKDST--VLLHQDCVLKWPYCTSGKQIPKLVCSI
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      LYAVTFAKAIFRS-------------------HRNLIVIVG-LLVVLRPKE-ETTSPPKL
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      AFYMTIEEEN----------------------ARKELKLL--KLLLLYS--LMRVKGTLL
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         AKFKCFEYYTDESKVEPLRQAVIEETSSIRKAGRDAETLKGEVQKAVQSLANASNKIQYI
+ProGen:B         ------------------------------------------------------------
+ProGen:B         LFRKCFAEEN----------------------KRGELLIKGDHLVLMYAQDLVSINHPVI
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ----------------------STLETKEVERRERARGAGRTDVPEQSSVRITT------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      SKESSV---KANIDLKTTEQPGSDLEEKFLKRNFRSRGENKAT-SDKISIRYAARADAAT
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         SRTSRRKALASQVQYST--------E-HTQLHHFRPEDIQNQSLPEPGPHRIPLKGQATT
+ProGen:B         ------------------------------------------------------------
+ProGen:B         S------------------------------EKHREEKEDCST-RIQSVSRVCLRCKCLR
+                                                                             
+
+ProteoGAN:B      ----------------------------------------MIT-PDEERR------KAPL
+ProteoGAN:B      KVIKPRGPPNSRP-----NASA--Q---------------RVAVSES-------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      QLFRGQHPRVLLYTSSKGFTDYSGASFSLSCSRNIVDASPYLSFKNNDNRPTPREWPPPP
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         L-----------------------QEYPRTVNRPFVYSDALVNVSQLGNCSNP-----PI
+ProGen:B         ------------------------------------------------------------
+ProGen:B         WLFLPQHKEPT-------FASV-------------LTSTLFLS--------TDKEFPADI
+                                                                             
+
+ProteoGAN:B      ---HGKSPQLAAVRAPA-SPQRAVPAA------VQNRFHI--------ARKLT---RRAI
+ProteoGAN:B      ----DERPAFPLEDAVA-EQRRRLPPRIIPVSPSPSNETAAVDLLYRSMNRIGVKD--TM
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      GTSVVPVPDITLSDPED-S-DATLEAM-VPVNALKSAAV---------PGRCTVKSFVCL
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ---------YVSTDGDTCLFSRRQPIDILAFT--------------DVLTTCSLDK---I
+ProGen:B         ------------------------------------------------------------
+ProGen:B         --AALTNPELEAADAIA-AERRRIDSL------VQRNFY---------PRACKLKPGEDL
+                                                                             
+
+ProteoGAN:B      ATEPQVA---SQEGKGVLPNTVTVMAEGMGHLFYLVKRKNIETIKD-----EISRNGFFD
+ProteoGAN:B      QTDSETNTMDVESSSGVVPAYGRA-ANGN--------RRLARFRGPGPGAG-----CTIS
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ANNAPTS---R-----------PPMDAGMRASRSSVLQK-AQFL-PEPLAVQAQSPVVFA
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         D-ERPVGY--TLAASGVTA------AAGHSAGY--------QVRNRATGGYRIDNQCSLL
+ProGen:B         ------------------------------------------------------------
+ProGen:B         SLDPPVH---N-----------QSELSGLRETCSLFFQQKASLFSEGPGSLQKKEDCYLS
+                                                                             
+
+ProteoGAN:B      Q-S---GIE----V-SFYVAIGNLPNAA-------AWKSSFIKRGAGDVKH-----QRKL
+ProteoGAN:B      THHAVPPPP----EAPPGRRAGNRAQAA-----ESATPSTRQTGRVGRCTD-----VGAA
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      -GPA----A----E-NFGGARGDLASA---------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         SGSNTNVLVEHVLMLDWGGGYDPITGAGTGIPLSLAQDHTDLRRQIVHCREGIQGACRGG
+ProGen:B         ------------------------------------------------------------
+ProGen:B         TGEGLFCVL----V-NTYGLRGHQARIV-------SHVSYNLLSRIENCDT-----C---
+                                                                             
+
+ProteoGAN:B      RDAADEQ------------F---------------------RRPMDFDKFSP------SS
+ProteoGAN:B      HSPARST------------S---------------------RHGLPENKINP------KR
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------KG--V-ASAA------SA
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         EGMSLKVFLTADVTVSDGFFYKGSASGRELQVSIFGHKKNRVKTMPVISIQPEHKPNLHT
+ProGen:B         ------------------------------------------------------------
+ProGen:B         --GALSE------------F---------------------VRG--SEDSGL------ST
+                                                                             
+
+ProteoGAN:B      PEFCFGCKYLERK--LQIIR-------------------RLQPPNLL---------FQKA
+ProteoGAN:B      NRLRFSAMETDDT--IALQEDGE-------------------------------------
+ProteoGAN:B      --------------------------------MTRLNNSHNASVGLV---------FLAK
+ProteoGAN:B      MFYATACNRSRRN--VVLLQ----------------PQGEIQALGGV---------YMSD
+ProteoGAN:B      -----------------M--------------------YESGSAGTS---------YDAE
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         --------------MWALSSPL------VQSTLVGR--LKLAGSSMMNTVLYA----SYK
+ProGen:B         ------------------------------------------------------------
+ProGen:B         HLSTFY-DYNKRGVYWSVDQDGQ-----IWGKMGNR--IAYAGPGLMTIALAEHKNLAYD
+ProGen:B         ------------------------------------------------------------
+ProGen:B         CLCCLGCSED-----GALLQLGACRCKSLVGALCNLMRQHIGSPNRL---------YLTE
+                                                                             
+
+ProteoGAN:B      -VVM-------PFVGH---RKKRTAVSTTALIWRELKILMLL--N---------------
+ProteoGAN:B      ------------------DRK-----IGINSTWLSSSIAALE--EMISGQRKLDQRAQQG
+ProteoGAN:B      KHFPLGWGVYVPDIPSIRSFYTRSDII--TSFFTTTAITVIFQFELVSDFDNLNVN----
+ProteoGAN:B      YVIR-------SNFKNAAECLLRINLA---SYW-GMGGK---------------------
+ProteoGAN:B      ----------------LLNRYLR-NLDHIH------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         Y-----------KCEDGVKYFDSKEHYAVMRSFA---------LQAAGPSDRR-HLAKVT
+ProGen:B         ------------------------------------------------------------
+ProGen:B         YVAHLGYGDWYNEFQQALHWLKEADSWVYSHPWK---------FKLAGQAEALGGLEQIG
+ProGen:B         ------------------------------------------------------------
+ProGen:B         AKWC-------PGVMSVITCFLDVNCIHCKLQWVGLKCHVCL--S---------------
+                                                                             
+
+ProteoGAN:B      ---------------EAFKQVFK-----------------RGVAVLDKVFNNPIPRVEHM
+ProteoGAN:B      LKQRQQKGKKGQKLGESYKQLTSEQRQQRERI-SAEQRAQQTLVNLADTCRDSMEKDESR
+ProteoGAN:B      -----QTNSVETLLGSLFKTIGP------------------------NDFDNDHPEILS-
+ProteoGAN:B      ---------------------PL------------------------DAFASRNVDDIEA
+ProteoGAN:B      ---------------AAYKQRVLRTLRDMAHLMMIEKHPNMATYMANENIPAFLMRSVSF
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         -------------------------------------------------I----------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         LVDNIRDGEEIWKGGKVYNAGVR---------VSWGNNGQRAYGLLDPDF----------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ---------------KLARDASS------------------------KGYLSKYPEDLEI
+                                                                             
+
+ProteoGAN:B      QPGGGSFGVGDLSSR------WHLVYGTPPAPLAYPRPGPL-IAFLAPADSFQ-------
+ProteoGAN:B      EYGPSLYSDFGVINK------FSQNYRKSTRPVIKSSSKK--VKLGVSEDSEE----DED
+ProteoGAN:B      ENNNILVDYIITITR------I--------------------------------------
+ProteoGAN:B      KTGRAATAFLT-EMN------AALTSAKTQTNTSR--PEK--------------------
+ProteoGAN:B      QEGMSSLEFGAGVSELT----KRIRLRKTQGDLEG----HD-LKILSSDN----------
+CVAE:B           -----------------------MAKDKAEKELTK--PKR--------------------
+CVAE:B           -----------------------MASEGAQTDSAK--KAP--------------------
+CVAE:B           -----------------------MQKDHNQKPGDK--RSP--------------------
+CVAE:B           -----------------------MAKGEAEKPETK--DKG--------------------
+CVAE:B           -----------------------MAKERVQTTLAV--LGS--------------------
+ProGen:B         ------FTAYGNLSEITDDV------------------------YLL-------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------YGVAGLIASLTGDVTLTIQPENAA--GGGPSPEICEVFFLLGPESVESFRSTIE
+ProGen:B         ------------------------------------------------------------
+ProGen:B         KGDGSAVNYSPLELR------VPQNPHKAERPGQG--SSAQ-QQLLVKH-EFT-------
+                                                                             
+
+ProteoGAN:B      -------QS-QPSIDLELVTHSGLN--RARSLRMGMRR---SGGPGQCSLD---------
+ProteoGAN:B      PDGLNLPDN-VNILSASLTFHCID----LCEEVLGEAK---KQGKEN-------------
+ProteoGAN:B      ------PQV-VQAIGRQQLEDLNPV--QKRNKIVSQSG---KP-----------------
+ProteoGAN:B      ----------------------------IGEPVLEEEK---DGEKSTELRK------RSQ
+ProteoGAN:B      ------------RLA-------------AKRRIMVKRS---KPRIPPERAE------RFD
+CVAE:B           ----------------------------KSKRRLGERE---KPRAVDLIRL---------
+CVAE:B           ----------------------------ESKLVLGARH---VEKGLTLSVK---------
+CVAE:B           ----------------------------VAESVLPNRE---HTEKPPPGVG---------
+CVAE:B           ----------------------------ESGGVLGDAE---KTRDGDLIRK---------
+CVAE:B           ----------------------------EAAKVLAAAG---AEKEKSGSLD---------
+ProGen:B         ------------------------------------------DCGAEIA-----------
+ProGen:B         ----------MDNLNSLILFKLKNK--QQRNELYGEFM----------------------
+ProGen:B         QDGLRYHQEAVSANGDIILWNANKAAAELRQEVLDKVTAYKVGSGITVVVYAATHDDAVR
+ProGen:B         ---MSQNQY-HRTFQALQLQDMER----VQEELVSE----------QPRWE------TLR
+ProGen:B         -------WI---FLRALVVCQVGPT--CSADSLLRDF----DGSEAHESWQ------RL-
+                                                                             
+
+ProteoGAN:B      ---GTAGQE-------RRA---------NCGASKKQNQKQKD------------------
+ProteoGAN:B      -----------------------------VNNVKKEVQKVERR-SKQLKATHA---RTQS
+ProteoGAN:B      ---------MMNKEMEHSPFD--------VTSVTDLKEINEDHSAAITAGVVGWAGRGQQ
+ProteoGAN:B      AARRDEADEAKEHPLDDRPYE-----EMQVTSEVKQRQKQSEQ---EVKEMERFAKQKAR
+ProteoGAN:B      AADGSLEDDGDRRGNKRRPRR-----EKEAAADAKE------------------------
+CVAE:B           ------------RHKDRQL-S-----KVIQSRKDKRKVKAIR------------------
+CVAE:B           ------------VSLLERL-S-----GGKVAATDKKYTKV--------------------
+CVAE:B           ------------VNRDQRR-S-----KRSEAVRADRRREKSS------------------
+CVAE:B           ------------SHLDRKL-E-----KVIQSSNAKHKRKAKD------------------
+CVAE:B           ------------VVLDNRL-S-----KVKVSMRKLVKVLVSD------------------
+ProGen:B         ------------------------------------------------IYERMWAYS---
+ProGen:B         -----------------------------------------DS-CKTKKTCGDWKKVKQE
+ProGen:B         GAPEVLGVHGTVRGRNQLDFS--------VSTGMSLSIIEHSLGAKGRSRVSLWGFRHGL
+ProGen:B         LARAL----------QDSDWA--------LAYV------DLRHQLELRKTCSGLTSI---
+ProGen:B         --FGVEGDESSESFLARVPFSEPPHVKDHVTQEKKQRALLLRI-SDTPENCRRWAQYREA
+                                                                             
+
+ProteoGAN:B      -------------------------------------------KLNLSGQQKQMS-----
+ProteoGAN:B      QK---------------------------------------ERAAKKQEKQKKMYA----
+ProteoGAN:B      VQR-----------------EMQKMT---------------YEDNKTRGGRKFNGRKEHT
+ProteoGAN:B      QD---------------------------------------EVESEEKEDQKQSMS----
+ProteoGAN:B      -------------------------------------------DERERDARDSMTK----
+CVAE:B           ------------------------------------------GKLRETRAQLAPL-----
+CVAE:B           ----------------------------------------------------KLG-----
+CVAE:B           ------------------------------------------VEERAKEGAKRVR-----
+CVAE:B           ------------------------------------------EKLRKKVANLKPL-----
+CVAE:B           ------------------------------------------VKVAEEEDAGKKR-----
+ProGen:B         ------------------------------------------------------------
+ProGen:B         KL---------------------------------------SQRARSKGGRTSVG-----
+ProGen:B         SRKGRPSGVGRTKGDSNEDQQYGILTASRARIVKDTFGLPGSRGRPVPGGRPYPTTGAAA
+ProGen:B         ------------------------------------------PKGRSEGPRSRRC-----
+ProGen:B         ML---------------------------------------LEGCQLNEDLFRMW-----
+                                                                             
+
+ProteoGAN:B      ----SSK-PESTS----------------TKQK---------------------------
+ProteoGAN:B      ----VKM-DSARE----FY--------LRLGSL---------------------------
+ProteoGAN:B      NANNGFM-RSAVESVIHYYYCP-QKG-----PVDKFVKEVVK------------------
+ProteoGAN:B      ----DTS-PTEEEDPPVTREAK-KGKKTSDKSQ---------------------------
+ProteoGAN:B      ---------------------V-ENKK---------------------------------
+CVAE:B           -----------REVVKKPPLIL--------------------------------------
+CVAE:B           -----------RSKARV----L-GGKVTREEAL---------------------------
+CVAE:B           -----------REKPRAIPLSA-GLKKKREDAK---------------------------
+CVAE:B           -----------REVKKRYQLSL--------------------------------------
+CVAE:B           -----------REKPIVIKVKS-IGQKLKEKAE---------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         -----------RRSNVSNQFAL-EGNKIRDANYPEFDMELVL---ERSGVVLAEI-----
+ProGen:B         DVPEGPKNTTYPQGPI-YYFYE--GK------SDRVVVAMAARVQGANALLGADIKTMDG
+ProGen:B         ---------CSPKRATHYRFACLGRGSCHEGVYNDLNVYSLQ------------------
+ProGen:B         --------PDFEQ---VVQRCC-G---LRPGSG---------------------------
+                                                                             
+
+ProteoGAN:B      -------------------------------------------------------LDSK-
+ProteoGAN:B      -------------------------------------------------------SSSLS
+ProteoGAN:B      -----------RYTPA-----QSRRTE----------------------------ANDTR
+ProteoGAN:B      -------------------------------------------------------ASSQ-
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           -------------------------------------------------------VRKR-
+CVAE:B           -------------------------------------------------------LRVS-
+CVAE:B           ------------------------------------------------------------
+CVAE:B           -------------------------------------------------------LARS-
+ProGen:B         ------------------------------------------------------------
+ProGen:B         --------KKKNYILIMTGGYLAHELN----------------------------ADSAE
+ProGen:B         CTYKRTNFVNKSYIYTAQGRR-KRSLGVKEPFTLVDIQLNGNRLTLDPVPGDASLRTDTA
+ProGen:B         --------------QCITGD-----------------------------------KPVDV
+ProGen:B         -------------------------------------------------------SYER-
+                                                                             
+
+ProteoGAN:B      ----EIGS-----A---------------------PESIIKQE-----------------
+ProteoGAN:B      -FEINVSA-----F---------DRALR----AAEPTEIIQTP-----------------
+ProteoGAN:B      FFDLKFTFVPELELKENLMKNVQPGKLQVNNID--KLEIQKQFDAEATKDMIKRKANSSF
+ProteoGAN:B      ----EQSA-----T---------------------EAKIMEAY-----------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------LI-----Q---------------------KKKVIKLL-----------------
+CVAE:B           ----SELV-----L---------------------KGLVEKLL-----------------
+CVAE:B           ----EESS-----V---------------------KLVL---L-----------------
+CVAE:B           ------LI-----T---------------------PGKEIKLL-----------------
+CVAE:B           ----SSET-----F---------------------K------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         FVELKEQA-----VREGICRTVAERNLELVSLKQRDEELCQKV-----------------
+ProGen:B         LFRLEEV----------------NGTLRLISILNSD------------------------
+ProGen:B         QYRLEFHSVSEIRLTNGLL-----------------------------------------
+ProGen:B         ----EQIL-----A---------------------DCARCKVQ-----------------
+                                                                             
+
+ProteoGAN:B      -G----------------------------------------------------------
+ProteoGAN:B      -STYEVKFPLTRTTLLQ-----------PIDTTPKLPKPLPHVDHHLANLIEELNVAFFE
+ProteoGAN:B      KELYTTKRSKDIGPTAAGFIKQNTDISKKELAEELFPEPKEQKK----AMSQIGKPSKNK
+ProteoGAN:B      -ST---S-SSKSAPNRV-----------PPPPNPSIPSPPPI--PNFGSISMINSY-SMV
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           -GR---N-LEETFEERE-------------GGGLPIAKQPPA--NPVTGEDGKALFGVTD
+CVAE:B           -GR---N-LSKTGGFGA-------------LRLAEEDANPEA--VTSTGISAGAGAVSLD
+CVAE:B           -RR---E-PKDKGPF--------------------------R--GEIGGDKALGGGVRAI
+CVAE:B           -GV---A-GEGTGERLK-------------LRGAPIAKPPPG--PPIKGEDAGALKVVTL
+CVAE:B           -K------REDRALLLG-------------A-------SLEE--LAIGGIKAGAGVVFAD
+ProGen:B         ------------------------------------------------------------
+ProGen:B         -DQYL---SKENCPVLR-----------KIEAN--LKRPKEAVESFFNPSKGIFMYGIFE
+ProGen:B         -----------------------------AVATEQMRSPPD---TFFGGFREVTRTILTV
+ProGen:B         ------------------------------------------------------------
+ProGen:B         -GR---K-CFSVGTFTV--------------------LQSED--VHYGNMDPRGKFHLRE
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      -------------------------D--------------FK---------------PFA
+ProteoGAN:B      ARGESESELHN----------------VTVQRGV---TATVVSSN------------QIA
+ProteoGAN:B      GAGASMKPLAQ-PVLVY-RKIQSNEDSFDDQSAV--ISTEMKSKKR----RLANYGYTVV
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           GPGHK--PCGPSPIKKRESKVGNLQEVDPITRRNVEVEAFLHKKKK----VLGLYR-PAK
+CVAE:B           -VGHQ--KTAN---KKGAILVFLVSTEVAIVGGGVESELAFSI--A----TRRRGK-AQK
+CVAE:B           -RNPS--KV----------KRLSSKKILKKAGKGKGKKYAISA--P----RGEFEN-A-A
+CVAE:B           GPGHK--RKRTSPGFKGEKKVSNIQEEKPDQGRNVEILAFGEF--I----KLEKYR-PRK
+CVAE:B           -NAPS--KV----------KLLSMSD-------GKAAEVKLKS--A--------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         -------PMNQQWINGF-LSEQTCY-----------SQAAFKDKKTLSQHFMKRENYEQM
+ProGen:B         GDRDVYQ-------------------------------------------FLRSFPGKIM
+ProGen:B         ------------------------------------------------------------
+ProGen:B         GN-HN--LLGT-TICKY-----NCPE----------CLREVK---D----TVRRLRYTLA
+                                                                             
+
+ProteoGAN:B      -------------EANE---------------------KRT------QP-----------
+ProteoGAN:B      KDVADLLKGNYVGNVNAGVFYKYLKTDFDDF-NNLDICDRNTRKRFQKALVMLGAMITLL
+ProteoGAN:B      SRAKMNGHMSAANAHTKGAMYEYYDRKLDAK-MKTR------------P-----------
+ProteoGAN:B      QGIAQQYYGHQEGIADA---------------------EGGKRRRLVDPFT-----MDAY
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           DG---QGYLNARQTTTS---------------------K----LLVKGPFG-----LE--
+CVAE:B           DGKQDLAK----------------------------------------------------
+CVAE:B           EG----------------------------------------------------------
+CVAE:B           DEDRDQLYLNARGKTMT---------------------P---GQGGVGPEG-----AT--
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         QTAQFYARLHIDEDSMECAFWHFFD--FKPG-HNL-------------------------
+ProGen:B         NGKKLQKALPT------GS-VRAFSVQLEPD-----------------P-----------
+ProGen:B         ---------STTEARLKGCPYESFYSKCSALKQNLA-SD------------------SSF
+ProGen:B         SS-----RGQDEGLATE---------------------K---------DLA-----FELY
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      EINNVYLLFGVIYG----DIHFNLTTLVFNVAARILVAGTAAMVEGIILSDEDTGNLLLG
+ProteoGAN:B      ---------------MRSSIFINL-----------------------VMSSSDRSNS---
+ProteoGAN:B      EVLREALKHGAEVVSGKHGVHYHVA-----------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ---------------------CTAK-----------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ----------------------QVARAMFELALRHEA---ESYNTAISLSPDEVAQMIQ-
+ProGen:B         ------------------------------------------------------------
+ProGen:B         KALSVSALLGAELHSL--------------------------------------------
+ProGen:B         NLYDIVDLPGDTCVPI--G--FVQT-----------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      TENIGEILATDVVKSNVDLKKYNATNNGFTED----TNEFVNDPCKPVRPPTPGNLT---
+ProteoGAN:B      ----AE---KLVSKK---------------------------------------------
+ProteoGAN:B      --EVADA--EDSYKKGINLPQKVNRNTGHPPNRSEDIVRTMDEHA---------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           --VIGDLELQRLYKVDEEAT----RLA-FEPR----------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           --VIPDQYKNMGYKVGA-------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         --AWGDALNILYQRQGLD----------FSGRKDFVYNDLLQETNLG-------------
+ProGen:B         --------------IGVNVLYQTSQLPGLVNYLDLSPPLLVRDYALGFPDPYKGNIIEEY
+ProGen:B         ------------------------PMAGQVA-----------------------------
+ProGen:B         --LKKKHLSQSVYSFSGELELSTGRLPGSVPSCELDSGCLVDTG----------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      -------------------------------QLKPKDPAQVLKPYKRNKTWAAPDMASFG
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------APDGKE---DLKQTWNGLVDDRYP
+ProGen:B         --------------------------------LQAREKIYFTLSY-------HEDFKSWG
+ProGen:B         FTFIELPREAVRDWARVTRTPTIVWDQGKMVLLAPEVPKVFE---NPSKTWLANVLQDLP
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      DCVENIY-----------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ITVTVIPRESAGEHIGDMKK---FGWDVLHVGHD--------------FPRSSDVHTAHV
+ProGen:B         DK----Y-----------------------------------------------------
+ProGen:B         EIIVAVFEGGLPGHLDELIRPVRPGFRLDFVTPEERKLKSITTNYIVRTLREGGKQSENY
+ProGen:B         ECV---------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         CVTLRYLPYPSVI-----------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         CALLGAFTYPKYTTRRYTVPYPDPDYPEKPVLAETHTAPEQTYVVRPGMNNDRGAAREGP
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ---------------------------------------------DRALKRHCCSSSEQC
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ---------------------------------------------KRLKEEQACGENNKH
+ProGen:B         EYPRQVLVFDGANKPGPITELVVGIQVYGNDFPLREHPVDVEFVIDPPRTTSGCSSNRGR
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      NQ-------------------------------------RQRPRR-KARRGLTSEVLTNT
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      -Q-------------------------------------REKPHK-KL------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         PSLWDSSWIATAAGESHLLDDDLSLVARFAKFENTKRDSAAEPEVAGESYGISTRLVEQV
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      TPDNRVDSQQDCSGAEESGYEVQRGSYLLAENGTAVLLGQMVLQ-LQSIQSMLDVRSPQG
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+ProGen:B         MRESFSDLGERVAANNLTDVQLGPADIVIAETGKPKLIKLMTDGPTLDLNVIYPPRGPSG
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      HV----------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+ProteoGAN:B      ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+CVAE:B           ------------------------------------------------------------
+ProGen:B         -----------------------------------------------------KALMVSL
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ALITREEKAAAELLRDYWDTQREPRALPLVKTYTRRVKECYSYFERIPKNNDLKAVSYPL
+ProGen:B         ------------------------------------------------------------
+ProGen:B         ------------------------------------------------------------
+                                                                             
+
+ProteoGAN:B      -------------------------------------------
+ProteoGAN:B      -------------------------------------------
+ProteoGAN:B      -------------------------------------------
+ProteoGAN:B      -------------------------------------------
+ProteoGAN:B      -------------------------------------------
+CVAE:B           -------------------------------------------
+CVAE:B           -------------------------------------------
+CVAE:B           -------------------------------------------
+CVAE:B           -------------------------------------------
+CVAE:B           -------------------------------------------
+ProGen:B         QRR--MLITYRTGQ-----------------------------
+ProGen:B         -------------------------------------------
+ProGen:B         HELVFLIHGYHAGPGEKSVTKAMNYYVEVLEPYTCVTLSCYAS
+ProGen:B         -------------------------------------------
+ProGen:B         -------------------------------------------
+                                                            

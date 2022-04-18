@@ -1,0 +1,170 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ProGen:C      ----MQTHRWSLLGWLARRSWQRRAST--YLPQSA----------SEGSVNGMGGVNNK-
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      MAVLDNSFFFSICGYSMSTVLGRDSGATEALSQNDSRKENHRKSKPQGTKRLAQGKNTCS
+                                                                          
+
+ProGen:C      ALRRL--VSKGTDPSMPPPQDSREKVDKYCNF-------MEKSTNQHDFRAFGLESSVRK
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      YLYERCSRKTSADPRLITT---TECNDCLCVQFHSICKELIHYRKICQTDCEGLEMTVRT
+                                                                          
+
+ProGen:C      PVRVPQKQPSRIKRVAEDRRAGPKFKDGDYIGVPTKHEDEQEPDTWTWWYDEDEDQAEGE
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      THQSPQLT---LRTDDVNKFLGKEFQDL-YQDTLFKLD---DPNGHEQWNKDGFK-AL--
+                                                                          
+
+ProGen:C      DLKAWRSVMLQRSASSGNSWQRQKREHHHQQRKDIHWRQYRASIIPEH---------GPE
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ----------------------GEKPMHGQHNAYIRWYQLLFDFGANSVLDIPMGTKSPR
+                                                                          
+
+ProGen:C      GPGGTGTLGPQMLSAGSVIELYQSKEGTSHTQQIKDINFNAEWLPTVPATPISKKRQSRL
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      SSAKYDVVGPLYNLSG-----YHSSQQ-----TSSDLINNGD-LSQFGRSDVKTEQLVRK
+                                                                          
+
+ProGen:C      LILDSITTSPIQKPSAPSKQSVKFGKDLPPGRKDLKPLAYETAS-----LAGLERITPLS
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      -LREVM------------------------NDADIKKYLYETKYQKFNKRCGAKAVVSLD
+                                                                          
+
+ProGen:C      LAPLFPLGEPQCNKQ-----DAHFKQCGFLDEITRRFDGISNKLTVKPLLRKQNSVKTPP
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      IEKDQGLGEGYKQPCFSKFTKTIFIYCQEIPTT-----------------------QRPS
+                                                                          
+
+ProGen:C      LQMSGEIVVHIVREHRTYKTNLRCRESQEQNPPQTYQPVSDGSCAQDSLDDCSARSDCGA
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      LVT-TCCNVCYARLSQSQQTSCICDPSQ-----------NEKGCYRATWKLCHNVMNLNF
+                                                                          
+
+ProGen:C      DVQ-----------EPGLGEN--SLSSYEKGGPTQPNHGQPPLPVPTQPPQLKQARQGGS
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      EVPPDIFMSSTSHTTPSVKKVSPSKQSSQRDSPVREMTEDVPLPQPTPVPTNEEENEP--
+                                                                          
+
+ProGen:C      RDRQPQDLRSDGYMG-------TSTRCGTTGHSSNNS-GG-----------------SCT
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      -ATQPVFTQSSVYSVPPTPLISVPTTANSGAVTPNRSFGGPQSTAPRQTTSPQKVVPLLQ
+                                                                          
+
+ProGen:C      GRCPYNSQGH-P---KGVVRP-PTS----------------------RDVSGMYPDHTDG
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ----------------------------------------------------MPP---FG
+ProGen:C      ------------------------------------------------------------
+ProGen:C      LTCPPPSSETTPQVTTKVSKPPPPPIPVVGAVVISATTVRREIGGKISHIHGMLPYTHFG
+                                                                          
+
+ProGen:C      GDSISYRDSGTLIAGSRLHKVSTFTPASFKKEPIAHANESSSATGPVRATPLSNSRSD--
+ProGen:C      ---MGRRDTDPL-----------ESPGS--------------------------------
+ProGen:C      DFFVSKREGRDW-----------APPGAK-------------GDGKQPDFANLEFRCRE-
+ProGen:C      -----MRLQAPF-----------ASEDAE-------------EL---SALEELKGKLGD-
+ProGen:C      VLSLIERDLIEY-----------STPDTLKPAPA------DNETGPVAEIKSMPPKQPAQ
+                    *                    :                                
+
+ProGen:C      ----------EDASSSR-------------------SETNHASSVTSSGGPVQSTEYNVW
+ProGen:C      ----------SIVS---------PESAILYRERIDEVESDESGDAELHGEDD--------
+ProGen:C      --------PDEIAS---------SAVDFLLKN-------------TAHGHVE--------
+ProGen:C      ----AMDFDDDMVS---------GVAQVFFQDAIQEET----VNNRLA------------
+ProGen:C      VYEPTQNPPTEQVTPTIQPTQVTTELPILQSNPCQ--------MTKVAGEPVNQI---TQ
+                        . .:                                              
+
+ProGen:C      DIISPTSSRSRDSYSTSDGTTESSDDGSLSLENGAQHTSSSEETPAEEGLPPQT------
+ProGen:C      ------DADGEDDSNLEDGEDESV---DEEDQ---------EDTTIKLVELFLSVFLLCF
+ProGen:C      ------KTE---------------------------------------------------
+ProGen:C      ------------------GENAAA---FECTE---------SLSTKELKIFFTGEFISCK
+ProGen:C      PVVPPTILNGHYSFQLEDGVQMIDKEWLKCLKE---QRMKSVQALIEEGLEFVNRFIQCF
+                                                                          
+
+ProGen:C      ----SPRNDDSDGPGSNSNASGWVPNISLSDGEMFQPSVEEMEPLVSSDRKRRRSMRSQP
+ProGen:C      LALIFTLSNNLRAKGGLWIALRYVPNIFSNRLKA----VGYLEKIYSASSTAVEYVYQ--
+ProGen:C      -----------------------TPKS-----------FEFVSLEESNDSKRMKYVTM--
+ProGen:C      ENTEI--VEKLLKHGAAH------ARIFIVKLCK----TEFSS-EFAAETSDV-------
+ProGen:C      QTKDT-----FTHLNNFFVSVM------------------YVEMYKSLQEKVVDVFPEQL
+                                                        .   : . .         
+
+ProGen:C      KMPLPVPLAAQQPVLLPQQSQYSGLSVSSSSLTGSGGNGSNSTSSDYEQDP---------
+ProGen:C      -QHEPNVI--------S---LTLVLN------TEKGKKKKNQTSIFWRVVKNLEYHLVK-
+ProGen:C      -EHKSD------------------------------------------------GSFTT-
+ProGen:C      -----------------------------------------------------KY---Q-
+ProGen:C      QQDMPEDLNEKQQL-LSASSLCDLLERKVSSVLRSNGMKLATAPVIWSIQVVLRMKYGAP
+                                                                          
+
+ProGen:C      ----------------------------------------------SLNIA---------
+ProGen:C      ----------LLQTWLSDNN-FPQLDYVKNGKTMDLEMD-LNENLPFLELAD--IRQGNS
+ProGen:C      ----------AISQWENNRA-HCHLPYSATDTIKSFEVYAWNLDGPCVILEDNKFKVCVV
+ProGen:C      ----------GNRVWLKDQG-LV-------------------------------------
+ProGen:C      VEEEQHIVEQFFGRFLRSNVTTCGGD-KRLQTQEELETNDLEDSINLLHISEDRKAAAEK
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      EYIEFIEVIPVVPSEKDLKDWVKSHFRKLILNVFKDLLVKNVVCLATREYLKRVG--PDS
+ProGen:C      EVKTSLEMLWVLHYKEFECKWVQTPFEAVR----------------------AYG--SRD
+ProGen:C      ----------------------------------------DVVCQHGLPS----------
+ProGen:C      VKQKIIEEIEMRHEK-ELKN------NNKILAVIEES---LSHCQESLENLQSNINHLRK
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      IA---TGGDSDSNERGISG-----DAAPGIFNVNNFSTFENSVIETLEDVSHMPRIKGKW
+ProGen:C      VTSVGNGGWLLELKSGLLRQHWGPQWKPSTVQLPKSQTTLGTSDASLENPAHVPPVISS-
+ProGen:C      --------------AKLEK-----SKEVGGFNINIFDVDGGALIKG--------------
+ProGen:C      LNSLKES-------RDLMK-----NREAAV--MPTVKRQIDKLSAIAEDGDHVQRIKKAL
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      EFVDMKTRMAPSAACFLLTSFGNLVVEEEDQIIIAAEHTEDHMEHHVPFAYEIEVDDRDQ
+ProGen:C      ------------------------------------------------------------
+ProGen:C      --------------------EGDKVKKEDDA-----------------------------
+ProGen:C      LKVKARR-------------------EKDNQVKNTM--EEDQKGNVDEIARDLEN-----
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      CNMLFTYKRNRDHLLYIVRMEKLTKGLQETQGQLQIEEKDIKDFLNKQLSPPQEM-GEKL
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ARQKLREKQKTQRQLFEAY-QQKLDGLSEETTTLKE---HPQAFIAGT-TPESEQRSQML
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      TRTRAKNTSDIRNQKHASSNPEHNA-------LHPD---------------------ES-
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ERKTKKANSSVLRQANRTKQLTHFAHILEKLSKHKDMARLKRKREQLEERIREFAKHERN
+                                                                          
+
+ProGen:C      ------------------------------------------------------------
+ProGen:C      -----KALMAGADYFQDAA-----------LDSK----KDDTKFGL---AALE--ELGKM
+ProGen:C      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:C      TMIEVMEALSGGMYSLLQSRNEVAEVLQQLIRAKRQAEEEREKVKRRLWKQLKELHKGKI
+                                                                          
+
+ProGen:C      -------------------------------------------------------
+ProGen:C      DREKDIHDFKMQ-FSLVYEA--QQRRKKMQRE-----------------------
+ProGen:C      -------------------------------------------------------
+ProGen:C      -------------------------------------------------------
+ProGen:C      KSEKEIEEKSIRDLVLVFLNEEKDVRHCYKRKYCTQIDVQRHVLLFYCQMQKKDQ
+                                                                     

@@ -1,0 +1,191 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      MRFESIIHLLTGPSHARPRPKPDYRRLSESNSREIYFPDVLKKKYKNVTFQSMQRPSLFL
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      SVSDVSPSTSADLLDFHPGFFITANAKGCIFLERLLSTLYDSFNAKVTFLGIGIDYLHHY
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      NNSEEKVIEDFERNTKEDTTISISHSLDDSEQTQSPEPEQKTAEDQIEKNEDGGSEKGSQ
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      DDRSPEKNPDPDTDSESAAEEGEDKKEREESPETSMDEEVSKSVCTTKPGEDGEDEQEVV
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      DTSDHDNKDSCFSDSQSEKSSQSEKSPLLITTPQRGLKSERYDGKLNRPPWNGDYFVKRN
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      YRTVEEGQMQVFEDSKVVSDPTVV--VESVEEET-ERSFDTPVSTEDEQEEFEVAVEVST
+ProGen:E      ----------------MASEVTAALRLGSLLRAIRASACCLPASS----------SSSTV
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------------------------------------------------------------
+ProGen:D      SPLIRSECYSELEEIDVEGQAEDEDSRLLKCEERA--IRDGDYKRQPVNTGNTIVEINLP
+ProGen:E      SPVTQSPKYDLLDALLCT----------AGCEVERLVEEEGQFGYACISVARKIIPQQKP
+                                                                          
+
+ProGen:A      --------------------------------------MKGSAC----------------
+ProGen:B      --------------------------------------------------------MWAL
+ProGen:C      ------------------------------------------------------------
+ProGen:D      NYVESKAAKTLSHYSYVTLPNTRQVPDKLSAIFSQTTRQPSQVCQVNYAYETALEQIFNI
+ProGen:E      NL------------------------------WIAYNHLFLSHCDPGCAFSDEYHQALHT
+                                                                          
+
+ProGen:A      -----------LTLKLSS--G----LSLAPGA-----------------NAFNNIMPTKL
+ProGen:B      S--------SPLVQSTLV--G----RLKLAGS-----------------SMMNTV-----
+ProGen:C      ------------------------------------------------------MQTHRW
+ProGen:D      FSEL---NEKPVVFPIKS--G----RLVVGHQ------------------------HSYI
+ProGen:E      ADKLAFTKTLPLVVAYKCCFGVSISYTLLSVEENLNHYLTRILSSCQKPKFYLPMLAVFW
+                                                                          
+
+ProGen:A      ---SFLGALCRNISQTD--------------------------RIDSVDGQPAMAQAK--
+ProGen:B      ---------------------LYASY----------------------------------
+ProGen:C      ---SLLGWLARRSWQRRASTYLPQSASEGSVNGMGGVNNKALRRLVSKGTDPSMPPPQDS
+ProGen:D      ---NVRRWITKHSASPINITIILRHF-----------------EIPYVGTYLDFPAEENP
+ProGen:E      AAVVVIPWLGLPAS-----TYQH-------------------------KSAQDFSPEMSQ
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      --KYKCEDGVKYFDSKEHYAVMRSFALQAA------------------------------
+ProGen:C      REKV--DKYCNFMEKSTNQHDFRAFGLESSVRKPVRVPQKQPSRIK-R-VAEDRRAG---
+ProGen:D      KRKMLLEEVKKIWSDQLIYHLMNNKG--------IELPRWMQSSMLECILVNEIRVGVDG
+ProGen:E      KAQQMAQQYKQIQ----AYYLLLLRGKYSGSRLHLQLTKDNSPTLL--------------
+                                                                          
+
+ProGen:A      --NKDSLFI---------------------------------------------------
+ProGen:B      --------------------------------------------GPSDRRHLAKV-----
+ProGen:C      PKFKDGDYI--G-VPT-KHEDEQEPDTWTWWYDEDEDQAE----GEDLKAWRSVM-----
+ProGen:D      NEMAKTNIVSEGILPRKTSSNQTQVGEMRWWINKLHDRWYDKKSGEIARRHISVIQGKDN
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      -----LNQEQ----------------------------------ARN-------------
+ProGen:B      ---TIFT------------AYGNLSE--ITDDVYLLDCGAEIA-----------------
+ProGen:C      ----LQRSAS----------------------------------SGNSWQRQKREHHHQ-
+ProGen:D      RSSLLFRGIDNFIQFAINQQYQHVEHAQYSLLKYFVERGEAVSTSIAQWTSLKAYPNKSD
+ProGen:E      --EFLSREVDLALDFVLAARFQARAHSSKCLPL-----TGLIEGLIAVYTTWHYYESVGD
+                                                                          
+
+ProGen:A      -----EYKHIDASVNKKH------------------------------------------
+ProGen:B      ----------------------------------------------------------IY
+ProGen:C      QRKDIHWRQYRASIIPEHGPEGPGGTGTLGPQMLSAGSVIELYQSKEGTSHTQQIKDINF
+ProGen:D      RQLETTFGRFRQPCSEE--MHHPSHFAPLSVQIRVHGSI------------MRTIKPKCY
+ProGen:E      QLEELHYWHIKQPLKPYPEFVNPVYMKYAERTNRVHQAVL---------------QALGW
+                                                                          
+
+ProGen:A      ---ETLCHDAASP---GTETLLVLLDEDEIYQKLQDKQKEEV---M--DGLKAGERPQDQ
+ProGen:B      -ERMWAYSAPDGKEDLKQTWNGLVDDRYPITVTVIPRESAGE---HIGDMKKFGWDVLHV
+ProGen:C      -NAEWLPTVPATPISKKRQSRLLILDS--ITTSPIQKPSAPS---K--QSVKFGKDLPPG
+ProGen:D      -EFEWATMAKSTDP-----LRLVFLLR-LLSRTPQLLESAKSWLMQQGEQLRIHYDNPEV
+ProGen:E      SVMKWQYMNVNKYP-----LDI--IHP--VAVYAEFRP--------------------RL
+                                           :                              
+
+ProGen:A      GRALTDLTE-MNK------QIMK-AERSAKYRKEISNCNGI-------------DGNCRF
+ProGen:B      GHDFPRSSDVHT------------------------------------------AHVCVT
+ProGen:C      RKDLKPLAY-ETASLAGLERITP-LSLAPLFPLGEPQCNKQ----------DAHFKQCGF
+ProGen:D      SIQIQQLPHLKEKNITGASTSKQSSTCRPHKPVT-ISCHEEGIGTRPRQKKTKQSNICYH
+ProGen:E      SKFLKKL-----------------------------------------------------
+                 :                                                        
+
+ProGen:A      LDF--ATRNFGSIFQMSYL-SVEDYLATEDF-Y--VPTLEQLTS----------------
+ProGen:B      LRYLPYPSVIKALMVSLQRRMLITYRTGQ-------------------------------
+ProGen:C      LDE--ITRRFDGISNKLT---VKPLLRKQNSVK--TPPLQ-MSGEIVVHIVREHRTYKTN
+ProGen:D      KEVLSHSKRFLGQGP-SQE-KVKPYREKTKETKLQDNRIDSLTAEATQ----------EN
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      -------------EYL--------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      LRCRESQEQNPPQTYQPVSDGSCAQDSLDD-CSARSDCG---------------------
+ProGen:D      VNKTRAEAKQPKQTFQKQTQMKCLHQTTSDYCVSHKQTKTYQPVVSETPRPEQDITQKSD
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      --A---------------------------DVQEPGLGENSL-----SSY----EKGGPT
+ProGen:D      NLRRINEDESQSEETREWFRIEMDDIRRQSEVRDTENHTNLLSLDHQFTYQPVAEEDGLS
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------KD---S
+ProGen:B      ------------------------------------------------------------
+ProGen:C      QPNHGQPPLPVPTQPPQLKQARQGGSRDRQPQDLRS-DGYMGTSTRCGTTGHSSNN---S
+ProGen:D      TEGDVEPQVLLATGDPSFLEEPL-----VEPNDVDEGMEFLNLDQDKEADSEPPNNQGHD
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      GGSELGESAR--------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      GGSCTGRCPYNSQGHPKGVVRPPTSRDVSGMYPDHTDGGDSISYRDSGTLIAGSRLHKVS
+ProGen:D      GQSENGSAPH-----VMDLIIHEDQTSSEPLFEEA------LKTRKRGEQRDT--IRREK
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      TFTPASFKKEPIAHANESSSATGPVRATPLSNSRSDEDASSSRSETNHASSVTSSG-G--
+ProGen:D      DKEHSDFKEEDLLDRN------GPKERE--------EDTR--QEEPDQDQNIELSEEETY
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      PVQSTEYNVWDII---SPTSSRSRDSYSTSDGTTESSDDGSLSL----------------
+ProGen:D      LIQQYSSTLYDEDSDSRDSSSIEKSSFSSEDGENEDHSASPLPCSESSFPSSEEDEGSDS
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      ------ENGAQHTSSSE--ETPAEEG--LP---PQTSPRNDDSDGPGSNSNA----SGWV
+ProGen:D      EEGHSNDNGDSDSAQEEQDEENDENGHSLETKENPTLPRSSEEQGDSDPKNHLYETASDS
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      PNISLSD-----GEM-------FQPS----VEEMEPLVSSDRKRRRSMRSQPKMPLPV--
+ProGen:D      SDIEFDSEKEKKTEMNSSTLGEFEDSDDELVSDLEDDVSDDDEYENSINDSLTDPLTTMN
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      ------------------------------------------------------------
+ProGen:B      ------------------------------------------------------------
+ProGen:C      --------PL-------------------------------------------A--AQQP
+ProGen:D      FEETVCPSQVSAEIDQWDDVETLLSYRFIDEVLLSGPKWLYVQENEDLTLCDQAAFQPKP
+ProGen:E      ------------------------------------------------------------
+                                                                          
+
+ProGen:A      -------------------------------------------
+ProGen:B      -------------------------------------------
+ProGen:C      VLLPQQSQYSGLSVSSSSLTGSGGNGSNSTSSDYEQDPSLNIA
+ProGen:D      LVHQDIGEYTGVFSA----------------------------
+ProGen:E      -------------------------------------------
+                                                         
