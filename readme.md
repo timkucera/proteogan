@@ -1,5 +1,5 @@
 ## ProteoGAN
-This repository contains code accompanying **"Conditional Generative Modeling for De Novo Protein Design with Hierarchical Functions"**. It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
+This repository contains code accompanying [**"Conditional generative modeling for *de novo* protein design with hierarchical functions"**](http://track.smtpsendmail.com/9032119/c?p=YSOKlInTlbgT3qJGzdtCrmzWxV6KJsaOKat-wwaK0l5c8pPhEjGy3F_wCQrWsJmpVKsphK9ybjoAU_pp4W-DLop2eDJMtojinh8TbXiJedtdToWE_M_e1rKM-Becj1PKT7JzFJpdAZ6v4CxwFwITM8L4-eEFkSU7xqP5URxsSZr3CQ3Hp_ujNryfBq7z8ZP9fmtE8QxhqlTgRaWsZ5_OsuIE_ow3ZGd62_vzp3w7xviiFV9qWmsbG8f0xjns-OzT). It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
 
 Note that, due to conflicts with our license, evaluations with UniRep and ProFET embeddings are not included in this repository. However, it is relatively straightforward to include any alternative embedding by providing a mapping function to the modules in `proteogan.metrics`. (See also bibliography notes below)
 
@@ -36,8 +36,22 @@ You may also use `train.util.BaseTrainer` to implement your own model and reuse 
 
 ## Citation
 If you use code from this repository in your work we kindly ask to cite accordingly:
+
+> Kucera, T., Togninalli, M., Meng-Papaxanthos, L. (2022). Conditional generative modeling for de novo protein design with hierarchical functions. Bioinformatics, btac353, https://doi.org/10.1093/bioinformatics/btac353.
+
 ```
-Currently under review.
+@article{10.1093/bioinformatics/btac353,
+    author = {Kucera, Tim and Togninalli, Matteo and Meng-Papaxanthos, Laetitia},
+    title = "{Conditional generative modeling for de novo protein design with hierarchical functions}",
+    journal = {Bioinformatics},
+    year = {2022},
+    month = {05},
+    issn = {1367-4803},
+    doi = {10.1093/bioinformatics/btac353},
+    url = {https://doi.org/10.1093/bioinformatics/btac353},
+    note = {btac353},
+    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btac353/43848181/btac353.pdf},
+}
 ```
 
 
