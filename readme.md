@@ -1,5 +1,5 @@
 ## ProteoGAN
-This repository contains code accompanying [**"Conditional generative modeling for *de novo* protein design with hierarchical functions"**](http://track.smtpsendmail.com/9032119/c?p=YSOKlInTlbgT3qJGzdtCrmzWxV6KJsaOKat-wwaK0l5c8pPhEjGy3F_wCQrWsJmpVKsphK9ybjoAU_pp4W-DLop2eDJMtojinh8TbXiJedtdToWE_M_e1rKM-Becj1PKT7JzFJpdAZ6v4CxwFwITM8L4-eEFkSU7xqP5URxsSZr3CQ3Hp_ujNryfBq7z8ZP9fmtE8QxhqlTgRaWsZ5_OsuIE_ow3ZGd62_vzp3w7xviiFV9qWmsbG8f0xjns-OzT). It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
+This repository contains code accompanying [**"Conditional generative modeling for *de novo* protein design with hierarchical functions"**](https://doi.org/10.1093/bioinformatics/btac353). It provides the data used to train and evaluate the model, the evaluation metrics, and ProteoGAN itself with pretrained weights.
 
 Note that, due to conflicts with our license, evaluations with UniRep and ProFET embeddings are not included in this repository. However, it is relatively straightforward to include any alternative embedding by providing a mapping function to the modules in `proteogan.metrics`. (See also bibliography notes below)
 
