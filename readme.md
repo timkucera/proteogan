@@ -37,20 +37,22 @@ You may also use `train.util.BaseTrainer` to implement your own model and reuse 
 ## Citation
 If you use code from this repository in your work we kindly ask to cite accordingly:
 
-> Kucera, T., Togninalli, M., Meng-Papaxanthos, L. (2022). Conditional generative modeling for de novo protein design with hierarchical functions. Bioinformatics, btac353, https://doi.org/10.1093/bioinformatics/btac353.
+> Kucera, T., Togninalli, M., & Meng-Papaxanthos, L. (2022). Conditional generative modeling for de novo protein design with hierarchical functions. Bioinformatics, 38(13), 3454-3461.
 
 ```
 @article{10.1093/bioinformatics/btac353,
     author = {Kucera, Tim and Togninalli, Matteo and Meng-Papaxanthos, Laetitia},
     title = "{Conditional generative modeling for de novo protein design with hierarchical functions}",
     journal = {Bioinformatics},
+    volume = {38},
+    number = {13},
+    pages = {3454-3461},
     year = {2022},
     month = {05},
     issn = {1367-4803},
     doi = {10.1093/bioinformatics/btac353},
     url = {https://doi.org/10.1093/bioinformatics/btac353},
-    note = {btac353},
-    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btac353/43848181/btac353.pdf},
+    eprint = {https://academic.oup.com/bioinformatics/article-pdf/38/13/3454/44268843/btac353.pdf},
 }
 ```
 
