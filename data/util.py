@@ -7,10 +7,6 @@ PATH = os.path.dirname(os.path.realpath(__file__))
 
 with open(PATH+'/labels.txt') as file:
     labels = file.read().split()
-with open(PATH+'/labels100.txt') as file:
-    labels100 = file.read().split()
-with open(PATH+'/labels200.txt') as file:
-    labels200 = file.read().split()
 
 seq_tokens = list('-'+amino_acid_alphabet)
 label_tokens = labels+['<PAD>']
